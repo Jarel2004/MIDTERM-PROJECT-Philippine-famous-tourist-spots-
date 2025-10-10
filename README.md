@@ -1,2 +1,2 @@
 # MIDTERM-PROJECT-Philippine-famous-tourist-spots-
-A responsive website of Philippine top tourist spots
+A responsive website that explores Philippine's famoust destinations.
