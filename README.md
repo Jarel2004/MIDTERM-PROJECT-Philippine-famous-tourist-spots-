@@ -2,7 +2,7 @@
 A responsive website that explores Philippine's famoust destinations.
 
 
-CAMINERO
+CAMINERO - BORACAY 
 adobo1- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK6PLjBWZLxlVlLck1VtdbKTxDGnJH89WOEw&s
 boracnew-https://i.pinimg.com/1200x/9e/6f/ff/9e6fffb5f52e75b298f04959a0bd0185.jpg
 boracay1-https://i.pinimg.com/1200x/68/d0/e0/68d0e0bcb5eec82cb2165c9374b1510b.jpg
