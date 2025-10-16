@@ -59,3 +59,11 @@ https://www.tripadvisor.com.ph/Hotel_Review-g3320429-d1806263-Reviews-Costa_Palm
 https://www.tripadvisor.com.ph/Hotel_Review-g317122-d12492777-Reviews-Mayon_Lodging_House-Legazpi_Albay_Province_Bicol_Region_Luzon.html
 
 https://www.tripadvisor.com.ph/Hotel_Review-g317122-d10477508-Reviews-Emerald_Boutique_Hotel-Legazpi_Albay_Province_Bicol_Region_Luzon.html
+
+https://www.wikihow.com/images/2/2b/Make-Crispy-Pili-Final-Version-2.jpg
+
+https://upload.wikimedia.org/wikipedia/commons/8/83/Kinalas.jpg
+
+https://albay.gov.ph/wp-content/uploads/2020/02/sili-ice.png
+
+https://albay.gov.ph/wp-content/uploads/2020/02/bicol-express-1024x538.png
