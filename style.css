@@ -309,3 +309,153 @@ footer p {
     color: #555;
     font-size: clamp(0.85rem, 2vw, 1rem);
 }
+
+.toggle-container {
+    position: absolute;
+    top: clamp(8px, 2vw, 10px);
+    right: clamp(8px, 2vw, 10px);
+    display: flex;
+    align-items: center;
+}
+
+.toggle-checkbox {
+    display: none;
+}
+
+.toggle-label {
+    display: block;
+    width: clamp(40px, 8vw, 50px);
+    height: clamp(20px, 4vw, 25px);
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    border-radius: 50px;
+    cursor: pointer;
+    position: relative;
+    transition: background 0.5s ease;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+.toggle-label::before {
+    content: '';
+    position: absolute;
+    top: 2.5px;
+    left: 2px;
+    width: clamp(16px, 3.5vw, 20px);
+    height: clamp(16px, 3.5vw, 20px);
+    background: #fff;
+    border-radius: 50%;
+    transition: transform 0.5s ease, background 0.5s ease;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+}
+
+.toggle-label::after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 1.5px;
+    transform: translateY(-50%);
+    font-size: clamp(12px, 2.5vw, 16px);
+    transition: opacity 0.3s ease;
+}
+
+.toggle-label .moon {
+    position: absolute;
+    top: 50%;
+    right: 1px;
+    transform: translateY(-50%);
+    font-size: clamp(12px, 2.5vw, 16px);
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.toggle-checkbox:checked ~ .toggle-label {
+    background: linear-gradient(135deg, #1e3a8a 0%, #312e81 100%);
+}
+
+.toggle-checkbox:checked ~ .toggle-label::before {
+    transform: translateX(clamp(18px, 4vw, 25px));
+    background: #1a202c;
+}
+
+.toggle-checkbox:checked ~ .toggle-label::after {
+    opacity: 0;
+}
+
+.toggle-checkbox:checked ~ .toggle-label .moon {
+    opacity: 1;
+}
+
+.toggle-checkbox:checked ~ body,
+body:has(.toggle-checkbox:checked) {
+    background-color: #1a202c;
+    color: #e2e8f0;
+}
+
+body:has(.toggle-checkbox:checked) header {
+    background-color: #2d3748;
+    box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.3);
+}
+
+body:has(.toggle-checkbox:checked) header h1 {
+    color: #63b3ed;
+}
+
+body:has(.toggle-checkbox:checked) nav ul li a {
+    color: #e2e8f0;
+}
+
+body:has(.toggle-checkbox:checked) nav ul li a:hover {
+    color: #63b3ed;
+}
+
+body:has(.toggle-checkbox:checked) .about,
+body:has(.toggle-checkbox:checked) .place-cards,
+body:has(.toggle-checkbox:checked) .card,
+body:has(.toggle-checkbox:checked) .travel-tips,
+body:has(.toggle-checkbox:checked) .gallery-item,
+body:has(.toggle-checkbox:checked) .itinerary,
+body:has(.toggle-checkbox:checked) .contact,
+body:has(.toggle-checkbox:checked) footer {
+    background-color: #2d3748;
+    color: #e2e8f0;
+    box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+body:has(.toggle-checkbox:checked) .about h2,
+body:has(.toggle-checkbox:checked) main > h2,
+body:has(.toggle-checkbox:checked) .food-and-culture h2,
+body:has(.toggle-checkbox:checked) .travel-tips h2,
+body:has(.toggle-checkbox:checked) .gallery h2,
+body:has(.toggle-checkbox:checked) .itineraries h2,
+body:has(.toggle-checkbox:checked) .contact h2,
+body:has(.toggle-checkbox:checked) .place-cards h3,
+body:has(.toggle-checkbox:checked) .card-content h4,
+body:has(.toggle-checkbox:checked) .tip-section h3,
+body:has(.toggle-checkbox:checked) .itinerary h3 {
+    color: #63b3ed;
+}
+
+body:has(.toggle-checkbox:checked) .about p,
+body:has(.toggle-checkbox:checked) .place-cards p,
+body:has(.toggle-checkbox:checked) .card-content p,
+body:has(.toggle-checkbox:checked) .tip-section p,
+body:has(.toggle-checkbox:checked) .tip-section li,
+body:has(.toggle-checkbox:checked) .itinerary p,
+body:has(.toggle-checkbox:checked) .contact > p,
+body:has(.toggle-checkbox:checked) .itineraries > p,
+body:has(.toggle-checkbox:checked) .gallery-item p,
+body:has(.toggle-checkbox:checked) footer p,
+body:has(.toggle-checkbox:checked) .food-and-culture h3 {
+    color: #cbd5e0;
+}
+
+body:has(.toggle-checkbox:checked) .contact input,
+body:has(.toggle-checkbox:checked) .contact textarea {
+    background-color: #4a5568;
+    border-color: #4a5568;
+    color: #e2e8f0;
+}
+
+body:has(.toggle-checkbox:checked) .contact input::placeholder,
+body:has(.toggle-checkbox:checked) .contact textarea::placeholder {
+    color: #a0aec0;
+}
