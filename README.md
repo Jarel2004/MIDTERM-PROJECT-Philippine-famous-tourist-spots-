@@ -67,3 +67,36 @@ https://upload.wikimedia.org/wikipedia/commons/8/83/Kinalas.jpg
 https://albay.gov.ph/wp-content/uploads/2020/02/sili-ice.png
 
 https://albay.gov.ph/wp-content/uploads/2020/02/bicol-express-1024x538.png
+
+Caminero- Puerto
+https://i.pinimg.com/1200x/fc/27/f9/fc27f964543009294c3441f9ef6f13bd.jpg
+
+infor: https://guidetothephilippines.ph/articles/ultimate-guides/puerto-princesa-underground-river-palawan-guide
+
+https://whc.unesco.org/en/list/652/
+
+
+FOOD
+https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/02/19/26/a-combination-of-fish.jpg?w=1000&h=1000&s=1
+
+https://media-cdn.tripadvisor.com/media/photo-s/01/c1/8b/cf/kinilaw-masarap.jpg
+
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC4iLsfMo9rFHbU93uF_GJdcHhfnvairWGew&s
+
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC4iLsfMo9rFHbU93uF_GJdcHhfnvairWGew&s
+
+
+actiivies
+https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/a8/81/0d/view-from-the-top-of.jpg?w=1200&h=900&s=1
+
+https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigu204lzY0KNaQaLemNKGTqFGcmxUJ8heOh71iagK6w_NJLeERIDQXyUfktXRb89413G7MBEW4W6sPgw2uSunaYRG6tBSF4NqMgpL4tQBYRmpdmIPbXBxOlJxaKQIO4uH_GTLUwi_x0gg/w0/Ugong+Rock+Adventures_001.JPG
+
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDZTrKy-6Yzu_frveYpEOXFgzBFAVz_5ak-Q&s\
+
+\where to stay
+https://www.tripadvisor.com.ph/Hotel_Review-g2720799-d27094671-Reviews-Four_Points_By_Sheraton_Palawan_Puerto_Princesa-Sabang_Puerto_Princesa_Palawan_Islan.html
+
+https://www.tripadvisor.com.ph/Hotel_Review-g294257-d2412792-Reviews-Cafe_Sabang_Rooms_Cottages-Puerto_Princesa_Palawan_Island_Palawan_Province_Mimaropa.html
+
+https://www.tripadvisor.com.ph/Hotel_Review-g2720799-d12821956-Reviews-Hill_Myna_Beach_Cottages-Sabang_Puerto_Princesa_Palawan_Island_Palawan_Province_Mima.html
+https://www.tripadvisor.com.ph/Hotel_Review-g2720799-d1055552-Reviews-Daluyon_Beach_And_Mountain_Resort-Sabang_Puerto_Princesa_Palawan_Island_Palawan_Provi.html
