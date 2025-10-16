@@ -21,7 +21,8 @@ surside-https://cf.bstatic.com/xdata/images/hotel/max1024x768/122324018.jpg?k=17
 trii-https://media.istockphoto.com/id/1287066732/photo/tricycle-is-a-popular-transport-in-philippines.jpg?s=612x612&w=0&k=20&c=XIyCLqh5gpWSyDmtxyRau58hlWlXnnCaR9OLuvrjWgA= 
 
 <<<<<<< HEAD
-VILLASURDA
+VILLASURDA - Palawan
+
 
 
 =======
