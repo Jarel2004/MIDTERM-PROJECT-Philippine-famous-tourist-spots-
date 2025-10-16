@@ -26,4 +26,54 @@ body {
     color: var(--main-color);
 }
 
+header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.8rem 1rem;
+    box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+}
+
+header h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    color: var(--accent-color);
+    letter-spacing: 1px;
+    font-size: clamp(1.2rem, 4vw, 1.8rem);
+}
+
+.nav-bar {
+    display: flex;
+    margin-right: clamp(4rem, 4vw, 4rem);
+}
+
+nav ul {
+    display: flex;
+    gap: clamp(0.8rem, 3vw, 2rem);
+    list-style: none;
+    flex-wrap: wrap;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: var(--main-color);
+    font-weight: 500;
+    transition: color 0.3s;
+    font-size: clamp(0.85rem, 2vw, 1rem);
+    white-space: nowrap;
+}
+
+nav ul li a:hover {
+    color: var(--accent-color);
+}
+
+main {
+    width: 100%;
+    margin-top: 60px;
+}
 
