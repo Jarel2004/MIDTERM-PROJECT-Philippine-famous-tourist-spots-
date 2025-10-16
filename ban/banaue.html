@@ -78,6 +78,7 @@
         }
         .food-gallery{
             display:grid;
+            
             grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
             gap:1.5rem;
             margin-top:1rem;
@@ -97,7 +98,7 @@
         .food-item img{
             width:100%;
             border-radius: 10px;
-            height: 200px;
+            aspect-ratio: 16/10;
             object-fit:cover;
         }
         .food-item h4{
@@ -126,9 +127,7 @@
             h2{
                 font-size:1.5rem;
             }
-            .food-item img{
-                height:120px;
-            }
+           
             header h1{
                 font-size:1.4rem;
             }
@@ -224,7 +223,8 @@
         
         .transport-item img{
             width:100%;
-            height:300px;
+            height:320px;
+            aspect-ratio: 4/5;
             object-fit:cover;
             border-radius:10px;
         }
@@ -248,7 +248,7 @@
 <body>
     <header>
         <h1>
-            <a href ="index.html" style ="text-decoration: none; color:inherit;">
+            <a href ="/MIDTERM-PROJECT-Philippine-famous-tourist-spots-/index.html" style ="text-decoration: none; color:inherit;">
                 <i class ="fa-solid fa-earth-asia"></i>Philippines
             </a>
         </h1>
@@ -283,13 +283,13 @@
             <div class = "destination-info">
                 <h3>About Banaue Rice Terraces</h3>
                 <p>
-                    Boracay is a place that looks straight out of a commercial( whether the one with chocolate bars or deodorants,it's up to you).Both of these settings have an idyllic background in commom,with blue,green and white colors so pure that the nature does'nt feel real.All we know is that in order to get the most out of your trip to the island, you should remember: The best time to visit Boracay is during its dry season from late November to early May.
+                    The mountainous Banaue in Ifugao province located in the northern part of Luzon has captured the interest of both local and international travelers because of its rich culture, cool weather, untouched mountain ranges and the warmth of the local Ifugao people. The Banaue Rice Terraces, often referred to as the "Eighth Wonder of the World," are a testament to the ingenuity and hard work of the Ifugao people who carved these terraces into the mountains over 2,000 years ago using traditional methods passed down through generations. These terraces are not only a marvel of engineering but also a symbol of the Ifugao's deep connection to their land and culture.
                 </p>
                 <h3>Fun Facts</h3>
                 <ul>
-                    <li>Boracay's White beach is about 4 kilometers long</li>
-                    <li>It was ranked among the best islands in the world.</li>
-                    <li>The island was closed in 2018 for 6 months for environmental rehabilitation.</li>
+                    <li>Banaue Rice Terraces were carved into the mountains over 2,000 years ago.</li>
+                    <li>They are often referred to as the "Eighth Wonder of the World."</li>
+                    <li>The terraces are still used for rice cultivation today.</li>
                 </ul>
             </div>
         </section>
@@ -297,78 +297,81 @@
             <h2><i class ="fa-solid fa-bus"></i>Transportation</h2>
             <div class="transport-gallery">
                 <div class="transport-item">    
-                    <img src ="src/ebikee.jpg" alt="E-bike">
-                    <h4>E-Bike</h4>
-                    <p>Eco-friendly and quiet, e-bikes are common way to explore Boracay's narrow roads.</p>
+                    <img src ="bus.jpg" alt="bus">
+                    <h4>Bus</h4>
+                    <p>Buses are a common and affordable way to travel between cities and towns in the Philippines.</p>
                 </div>
 
                <div class="transport-item">
-                <img src="src/trii.jpg" alt="Tricycle">
+                <img src="bus2.jpg" alt="Tricycle">
                 <h4> Tricycle</h4>
                 <p>The most popular mode of transportation on the island, perfect for short rides between beaches.</p>
                </div>
             </div>
             <ul>
-                <li><b>By Air:</b> Fly from Manila or Cebu to either Caticlan or Kalibo Airport.</li>
-                <li><b>From Caticlan:</b> Take a short tricycle ride to the jetty port, then ride a boat to Boracay.</li>
-                <li><b>Local Transport:</b> On the island, you can get around by tricycle, e-bike or by walking along the beach path.</li>
+                <li><b>By Bus From Manila:</b></li>
+                    <p> Traveling from Manila to Banaue (Ifugao province) is exclusively by land transportation, with no direct flights available; the trip takes approximately 9 hours, highly dependent on traffic. Most visitors prefer to travel at night to arrive early and maximize their time exploring Banaue. You have two main bus options: Ohayami Bus Transit, located at the corner of Fajardo Street and Lacson Avenue in Sampaloc, Manila, offers a daily trip leaving at 9:00 PM and allows online booking for reservations. Alternatively, Dangwa Transit, with a terminal in Cubao, operates only one trip daily departing around 8:00 PM and accommodates passengers on a first-come, first-served basis, so early arrival is essential.</p>
+                </li>
+                <li><b>By Bus From Baguio:</b>
+                    <p> The bus from Baguio to Banaue takes approximately 3 hours including transfers and departs at least three times a day. You can go by Ohayami Bus transit stationed along Otek Street near Burnham Park or KMS bus that offers two trips daily and can be found near Rizal Park.</p>
+                </li>
+                <li><b>By Bus From Sagada:</b>
+                    <p> If you’re coming from Sagada, it’s advisable to get to the terminal early. At the Sagada Municipal Hall, there are jeepneys going to Bontoc (the capital of Mountain Province). Travel time is around an hour and the trip starts as early as 6:30 a.m. There’s an available trip that leaves every half hour until 9:00 a.m to 1 p.m. 
+
+                        From Bontoc, you can take the local bus to Banaue. The first trip leaves at 7:00 a.m and takes around 2 hours. Another option is to ride a van that leaves at 8:30 a.m., 10:00 a.m., and 1:00 p.m.</p>
+                </li>
             </ul>
         </section>
         <section id ="tourism">
             <h2><i class ="fa-solid fa-bus"></i>Tourism and Development</h2>
-            <ul>
-                <p>Boracay was temporarily closed for rehabilitation in 2018 because of the environmental issues such as pollution and overcrowding. After a six-month closure, the island reopened with stricter environmental regulations, including:</p>
-                <li>Limiting the number of tourists allowed on the island.</li>
-                <li>Implementing a strict no-smoking policy on the beach.</li>
-                <li>Rehabilitating the beach and surrounding areas to restore their natural beauty.</li>
-            
-            </ul>
+        
+                <p>Tourism in Banaue centers on the ancient rice terraces, a UNESCO World Heritage site known as the "8th Wonder of the World," which draws visitors for scenic views and trekking. Development is a key issue, with concerns that tourism may be harming the terraces, while also being a potential engine for a more sustainable local economy and culture. Initiatives like the DOT-CAR's support for golf tourism suggest efforts to diversify and grow the industry in the region</p>
+                
         </section>
            <section id ="culture">
             <h2><i class ="fa-solid fa-users"></i>Culture</h2>
+            <h3>The Ifugao People and Their Heritage</h3>
             <ul>
-                <li>Locals are called Aklanon (from the province of Aklan).</li>
-                <li>The local language is Aklanon, but Tagalog and English are widely spoken.</li>
-                <li>The people are known for being friendly and hospitable,expecially to tourists.</li>
+                <li>The main language spoken is Ifugao, but Tagalog and English are commonly used, especially in the tourism industry.</li>
+                <li>The Ifugao are masters of traditional wooden carvings, particularly bul-ul (rice gods), which are spiritual symbols of fertility and prosperity.</li>
+                <li>The community maintains a strong sense of cooperation and tradition, with ceremonies often centered around the rice cycle and ancestral worship.</li>
             </ul>
            </section>
            <section id ="climate">
             <h2><i class ="fa-solid fa-sun"></i>Climate</h2>
-            <ul>
-                <li>Tropical climate all year round</li>
-                <li>Best time to visit:November to May (dry season), when the weather is sunny and the sea is calm.</li>
-                <li>June to October is rainy season, with occasional typhoons.</li>
-            </ul>
+            <p>The best months to visit Banaue are during the months of April to May and October to November since these are the times when the rice terraces are at their greenest and most scenic state.
+
+                Visiting during the rainy seasons of July and August is not recommended due to the possibility of landslides in some areas making it difficult for activities like hiking and trekking.</p>
            </section>
 
            <section id ="food">
             <h2><i class ="fa-solid fa-utensils"></i>Food</h2>
-            <h3>Popular Filipino Dishes</h3>
+            <h3>Where to Eat in Banaue</h3>
 
             <div class ="food-gallery">
 
                 <div class="food-item">
-                    <img src ="src/adobo1.jpg" alt="Adobo">
-                    <h4>Adobo</h4>
-                    <p>Chicken or pork braised in soy sauce, vinegar, and garlic — the classic Filipino favorite.</p>
+                    <img src ="kaon.jpg" alt="heaven">
+                    <h4>7th Heaven’s Café</h4>
+                    <p>It offers a good selection of breakfast and other comfort food while your eyes feast on the amazing views of the rice terraces. Don’t miss out on their famous honey-cured liempo and tinocenturi, their own version of the popular Filipino dish tinola.</p>
                 </div>
 
                 <div class="food-item">
-                    <img src ="src/sinigang.jpg" alt="Sinigang">
-                    <h4>Sinigang</h4>
-                    <p>A tangy tamarind soup with vegetables and your choice of meat or shrimp.</p>
+                    <img src ="las.jpg" alt="la vegas">
+                    <h4>Las Vegas Lodge</h4>
+                    <p>You can never go wrong with a scenic view, live music, and great food. Good thing, Las Vegas Lodge offers all of them. Known for their variety of both local and international cuisine, this place is visited by travelers who are after affordability and tasty meals.</p>
                 </div>
 
                  <div class="food-item">
-                        <img src ="src/lechon1.jpg" alt="Lechon">
-                        <h4>Lechon</h4>
-                        <p>Roast pig, known for its crispy skin and tender meat, often served at celebrations.</p>
+                        <img src ="lod.jpg" alt="lodge">
+                        <h4>Sanafe Lodge</h4>
+                        <p>Sanafe Lodge and Restaurant, located in Banaue, Ifugao, offers a cozy and safe retreat for travelers. The lodge provides indoor and outdoor seating options for guests to enjoy the stunning views of the rice terraces. Owned by Susan Paredes, this accommodation is known for its hospitable staff and comfortable ambiance. The on-site restaurant serves a variety of Filipino and international dishes, including fresh salads and grilled meats that are popular among visitors.</p>
                 </div>
 
                 <div class="food-item">
-                        <img src ="src/halo.jpg" alt="Halo-Halo">
-                        <h4>Halo-Halo</h4>
-                        <p>A refreshing dessert made with crushed ice, sweet beans, fruits, and topped with leche flan or ube.</p>
+                        <img src ="lo.jpg" alt="homestay">
+                        <h4>Banaue Homestay</h4>
+                        <p>Home-cooked meal at a very affordable price makes you feel like you’ve never really left home. For about PHP100 (USD 2), you already have a complete set of meal consists of the main course dishes, rice and ripe mango for dessert. Not a bad deal!</p>
                  </div> 
             </div>
              </section> 
@@ -377,24 +380,24 @@
         <h3>Top Activities in Boracay</h3>
         <div class ="food-gallery">
             <div class ="food-item">
-                <img src ="src/boracay1.jpg" alt ="Beach Walk">
-                <h4>Walk Along the Beach</h4>
-                <p>Take a relaxing walk on the soft sand while enjoying ocean views and local shops.</p>
+                <img src ="saty.jpg" alt ="Beach Walk">
+                <h4>Stay in a Traditional Ifugao House</h4>
+                <p>Experience the unique architecture and culture of the Ifugao people by staying in a traditional house.</p>
             </div>
         <div class ="food-item">
-            <img src ="src/sunset.jpg" alt ="Sunset">
-                <h4>Watch the Sunset</h4>
-                <p>Experience the breathtaking colors as the sun sets over the horizon.</p>
+            <img src ="hike.jpg" alt ="Sunset">
+                <h4>Hike the Batad Rice Terraces</h4>
+                <p>Hike through the stunning rice terraces of Batad, a UNESCO World Heritage site, and take in the breathtaking views.</p>
         </div>
         <div class ="food-item">
-            <img src ="src/diveb.jpg" alt ="Water Activities">
-            <h4>Water Activities</h4>
-            <p>Enjoy a variety of water sports, including snorkeling, scuba diving, and paddleboarding.</p>
+            <img src ="wear.jpg" alt ="Water Activities">
+            <h4>Wear the Ifugao Traditional Clothes</h4>
+            <p>Experience the rich culture of the Ifugao people by wearing their traditional attire.</p>
         </div>
         <div class="food-item">
-            <img src="src/gett.jpg" alt="Nightlife">
-            <h4>Enjoy night life</h4>
-            <p>Dance, dine and relax in the beachside bars and restaurants after the sunset.</p>
+            <img src="cof.jpg" alt="Nightlife">
+            <h4>Try the Kalinga Coffee</h4>
+            <p>Experience the rich flavors of Kalinga coffee, known for its smooth and bold taste.</p>
         </div>
         </div>
         </section>
@@ -405,29 +408,30 @@
 
             <div class ="food-gallery">
                 <div class ="food-item">
-                    <img src ="src/ferra.jpg" alt ="Ferra Hotel and Garden Suites">
-                    <h4>Ferra Hotel and Garden Suites</h4>
-                    <a class="hotel-link" href="https://www.booking.com/hotel/ph/ferra-and-garden-suites.html" target="_blank">Book here </a>
-                    <p>Mid-level hotel with a rooftop pool- rooms around 80 dollars per night.</p>
+                    <img src ="fir.png" alt ="Batad View Inn and Restaurant">
+                    <h4>Batad View Inn and Restaurant</h4>
+                    <a class="hotel-link" href="https://www.agoda.com/batad-view-inn-and-restaurant/hotel/banaue-ph.html?ds=l9tzHtPX67rHGcdb" target="_blank">Book here </a>
+                    <p>Batad is far from Banaue town and no cell phone signal available but it is great to stay at this mountain cottage with great view and great host Mr. Ramon and staffs. Batad View Inn and Restaurant is actually extension of Ramon's Homestay and Restaurant. You can avail same wonderful and warm Mountain Cottage experience.</p>
                 </div>
                 <div class ="food-item">
-                    <img src ="src/coast.jpg" alt="Coast Hotel">
-                    <h4>Coast</h4>
-                    <a class="hotel-link" href="https://www.booking.com/hotel/ph/coast.html" target="_blank">Book here </a>
-                    <p>Pet- friendly hotel located on Station 2, beachside with rooms around 140 dollars per night.</p>
+                    <img src ="ban.jpg" alt="Grandview">
+                    <h4>Banaue Grandview Hotel 4 stars out of 5</h4>
+                    
+                    <a class="hotel-link" href="https://www.agoda.com/banaue-grandview-hotel/hotel/all/banaue-ph.html" target="_blank">Book here </a>
+                    <p> The rooms are new and quite bigger than general standards.</p>
 
                 </div>
             <div class ="food-item">
-                <img src ="src/surside.jpg" alt ="Surside Boracay Resort">
-                <h4>Surfside Boracay Resort</h4>
-                <a class="hotel-link" href="https://www.booking.com/hotel/ph/surfside-boracay-resort-and-spa.html" target="_blank">Book here </a>
-                <p>Budget-friendly with spa services and peaceful location, 65 dollars per night.</p>
+                <img src ="inn.jpg" alt ="Batad CHRISTINA'S Main Village INN & RESTAURANT">
+                <h4>Batad CHRISTINA'S Main Village INN & RESTAURANT</h4>
+                <a class="hotel-link" href="https://www.agoda.com/cristina-s-main-village-inn-and-restaurant/hotel/banaue-ph.html?ds=e%2BIMOm2Rq%2FZ4R0BZ" target="_blank">Book here </a>
+                <p>This is a very cute family guest house.</p>
                 </div>
             <div class ="food-item">
-                <img src="src/shari.jpg" alt="Shangri-La Boracay">
-                 <h4>Shangri-La Boracay</h4>
-                 <a class="hotel-link" href="https://www.booking.com/hotel/ph/shangri-la-s-boracay-resort-and-spa.html" target="_blank">Book here </a>
-                <p>Luxury resort offering a private beachfront experience, rooms start at 450 dollars per night.</p>
+                <img src="hot.jpg" alt="Quenrencia">
+                 <h4>Quenrencia</h4>
+                 <a class="hotel-link" href="https://www.agoda.com/querencia-hotel/hotel/banaue-ph.html" target="_blank">Book here </a>
+                <p>The Lady and her girls were Amazing! Great food and free drinks. When after a Trek web had ti spend more time before our next bus trip they offered US a free room to rest for couple of hours.... No words Grazie!</p>
                 </div>
                 </div>
         </section>
