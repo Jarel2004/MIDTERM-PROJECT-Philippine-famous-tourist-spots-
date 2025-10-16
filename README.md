@@ -20,7 +20,7 @@ sinigang-https://cf.bstatic.com/xdata/images/hotel/max1024x768/295687341.jpg?k=0
 surside-https://cf.bstatic.com/xdata/images/hotel/max1024x768/122324018.jpg?k=17596ff45c0b6d201a195ed2b2a9bd5913eee521ef939ca917eda7e2d60dc028&o=
 trii-https://media.istockphoto.com/id/1287066732/photo/tricycle-is-a-popular-transport-in-philippines.jpg?s=612x612&w=0&k=20&c=XIyCLqh5gpWSyDmtxyRau58hlWlXnnCaR9OLuvrjWgA= 
 
-CAMINERO
+CAMINERO - banaue
 all info are from :https://guidetothephilippines.ph/articles/ultimate-guides/banaue-travel-guide
 bus2-https://content.pamasahe.com/wp-content/uploads/2025/09/ohayami-bus-min-1024x528.jpg
 bb-https://i.pinimg.com/1200x/2f/18/2e/2f182ec2c80d27198d8615c8d21d6a7c.jpg
@@ -36,3 +36,26 @@ sanafe-https://www.tripadvisor.com.ph/Hotel_Review-g294249-d1373155-Reviews-Sana
 https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/bf/b4/3c/photo0jpg.jpg?w=1100&h=-1&s=1
 
 https://www.agoda.com/city/banaue-ph.html?cid=1844104&ds=E01oRIuxDBRbHfhi
+
+caminero-mayon
+info,pic from :https://www.britannica.com/place/Mayon-Volcano
+https://guidetothephilippines.ph/articles/ultimate-guides/mayon-volcano-guide-albay-bicol
+
+https://www.getyourguide.com/mayon-volcano-l130138/
+
+https://gttp.images.tshiftcdn.com/458730/x/0/cebu-to-or-from-masbate-ferry-ride-one-way-transasia.jpg?crop=1.91%3A1&width=1200&fit=crop
+
+bus-https://www.instagram.com/p/DCekGjIToVf/?img_index=5
+
+https://www.getyourguide.com/philippines-l169047/sumlang-lake-express-tour-with-cagsawa-ruins-by-zchedulista-t637613/?ranking_uuid=ce6a4cf2-7059-4993-8c4c-7d06ccf172dc
+
+https://www.getyourguide.com/legazpi-city-l130133/albay-bicol-full-day-tour-with-mayon-skyline-by-zchedulista-t614374/?ranking_uuid=ce6a4cf2-7059-4993-8c4c-7d06ccf172dc
+
+
+https://www.tripadvisor.com.ph/Hotel_Review-g5556259-d26366749-Reviews-Hotel_Herencia_625-Daraga_Bicol_Region_Luzon.html
+
+https://www.tripadvisor.com.ph/Hotel_Review-g3320429-d1806263-Reviews-Costa_Palmera_Resort-Calayucay_Santo_Domingo_Albay_Province_Bicol_Region_Luzon.html#/media/1806263/?type=ALL_INCLUDING_RESTRICTED&albumtype=hsx%3A%3Aall_photos_album&albumvariant=standard&categorytype=hsx%3A%3Aall_photos_album&categoryvariant=standard   
+
+https://www.tripadvisor.com.ph/Hotel_Review-g317122-d12492777-Reviews-Mayon_Lodging_House-Legazpi_Albay_Province_Bicol_Region_Luzon.html
+
+https://www.tripadvisor.com.ph/Hotel_Review-g317122-d10477508-Reviews-Emerald_Boutique_Hotel-Legazpi_Albay_Province_Bicol_Region_Luzon.html
