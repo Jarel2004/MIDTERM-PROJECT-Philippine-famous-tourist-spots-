@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>El Nido, Palawan</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css">
+    <style>
+      body{
+            font-family: Arial, sans-serif;
+            margin:0;
+            padding:0;
+            background: #f4f6f8;
+            color: black;
+        }
+        header{
+            width:100%;
+            background: rgb(255,255,255);
+            color: #007bff;
+            box-shadow: 0px 0px 3px gray;
+            padding: 1rem;
+            position:fixed;
+            top:0;
+            z-index:100;
+            text-align:left;
+        }
+        .menu{
+            position:fixed;
+            display:flex;
+            top:10px;
+            right:20px;
+            z-index:100;
+        }
+        header h1{
+            margin:0;
+            font-size:2rem;
+        }
+        h2{
+            text-align: center;
+            color:#007bff;
+            margin-top: 2rem;
+            font-size:1.8rem;
+        }
+        section{
+            width:85%;
+            margin: 2rem auto;
+            background: #fff;
+            border-radius: 10px;
+            padding:2rem;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+        }
+        .main-image {
+            display: flex;
+            justify-content:center;
+            margin: 1rem 0;
+        }
+        .main-image img{
+            width:100%;
+            max-width: 800px;
+            border-radius:10px;
+            height:auto;
+        }
+        .destination-info h3{
+            color: #007bff;
+            margin-top:1rem;
+            text-transform:uppercase;
+        }
+        .destination-info p, .destination-info ul{
+            line-height:1.6;
+            text-align:justify;
+            font-size: 1rem;
+        }
+        ul{
+            padding-left:1.2rem;
+        }
+        .food-gallery{
+            display:grid;
+            grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+            gap:1.5rem;
+            margin-top:1rem;
+        }
+        .food-item{
+            background:#fdfdfd;
+            border:1px solid #eee;
+            border-radius:10px;
+            padding:1rem;
+            text-align:center;
+            transition:transform 0.3s, box-shadow 0.3s;
+        }
+        .food-item:hover{
+            transform:translateY(-5px);
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+        }
+        .food-item img{
+            width:100%;
+            border-radius: 10px;
+            aspect-ratio: 16/10;
+            object-fit:cover;
+        }
+        .food-item h4{
+            color: #007bff;
+            margin: 0.8rem 0 0.4rem;
+        }
+        .food-item p{
+            color:#555;
+            font-size:1rem;
+        }
+        a.hotel-link{
+            display:inline-block;
+            margin-top: 0.3rem;
+            color:#007bff;
+            text-decoration:none;
+            font-weight:bold;
+        }
+        a.hotel-link:hover{
+            text-decoration:underline;
+        }
+        @media(max-width:768px){
+            section{
+                width:90%;
+                padding:1.5rem;
+            }
+            h2{
+                font-size:1.5rem;
+            }
+            header h1{
+                font-size:1.4rem;
+            }
+        }
+        #menu-toggle{
+            display:none;
+        }
+        .hamburger{
+            position:absolute;
+            top:20px;
+            right:20px;
+            width:30px;
+            height:20px;
+            display:flex;
+            flex-direction:column;
+            justify-content:space-between;
+            cursor:pointer;
+            z-index:1000;
+        }
+        .hamburger span{
+            display:block;
+            width:100%;
+            height:3px;
+            background-color:black;
+            transition: all 0.3s ease;
+        }
+        #menu-toggle:checked + .hamburger span:nth-child(1){
+            transform:rotate(45deg) translate(5px,5px);
+        }
+        #menu-toggle:checked + .hamburger span:nth-child(2){
+            opacity: 0; 
+        }
+        #menu-toggle:checked + .hamburger span:nth-child(3){
+            transform:rotate(-45deg) translate(5px,-5px);
+        }
+        .nav-list{
+            position:fixed;
+            top:0;
+            right:0;
+            width:35vw;
+            height:100vh;
+            background-color:#f0f0f0;
+            transform:translateX(100%);
+            transition: transform 0.3s ease;
+            overflow-y:auto;
+            z-index:999;
+        }
+        #menu-toggle:checked ~ .nav-list{
+            transform:translateX(0);
+        }
+        .nav-list ul{
+            list-style:none;
+            padding:20px;
+            margin:0;
+        }
+        .nav-list ul li{
+            margin-bottom:15px;
+        }
+        .nav-list ul li a{
+            text-decoration:none;
+            color:black;
+            font-size:18px;
+        }
+        .transport-gallery{
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1.5rem;
+            margin-top: 20px;
+            text-align: center;
+        }
+        .transport-item{
+            background:#fff;
+            border-radius: 10px;
+            padding: 1rem;
+            box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s;
+        }
+        .transport-item img{
+            width:100%;
+            height:320px;
+            aspect-ratio: 4/5;
+            object-fit:cover;
+            border-radius:10px;
+        }
+        .transport-item h4{
+            color:#007bff;
+            margin:0.8rem 0 0.4rem;
+        }
+        .transport-item p{
+            color:#555;
+            font-size:0.95rem;
+        }
+        header h1:hover{
+            color:#0088cc;
+            transition:0.3s;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>
+            <a href ="index.html" style ="text-decoration: none; color:inherit;">
+                <i class ="fa-solid fa-earth-asia"></i> Philippines
+            </a>
+        </h1>
+    </header>
+    <div class ="menu">
+        <input type = "checkbox" id="menu-toggle">
+        <label for ="menu-toggle" class ="hamburger">
+            <span></span> 
+            <span></span>
+            <span></span>
+        </label>
+        <div class ="nav-list">
+            <ul>
+                <li><a href="#About">Overview</a></li>
+                <li><a href="#Transportation">Transportation</a></li>
+                <li><a href="#activities">Things to Do</a></li>
+                <li><a href="#tourism">Tourism and Development</a></li>
+                <li><a href="#culture">Culture</a></li>
+                <li><a href="#climate">Climate</a></li>
+                <li><a href="#food">Food and Cuisine</a></li>
+                <li><a href="#stay">Where to Stay</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <main>
+        <section id="About">
+            <h2><i class="fa-solid fa-map-location-dot"></i> El Nido, Palawan</h2>
+            <div class="main-image">
+                <img src="el_nido_main.jpg" alt="El Nido">
+            </div>
+            <div class="destination-info">
+                <h3>About El Nido</h3>
+                <p>
+                    El Nido, located in the northern tip of Palawan, is one of the most breathtaking destinations in the Philippines.
+                    Known for its crystal-clear waters, towering limestone cliffs, hidden lagoons, and white-sand beaches,
+                    it’s a true paradise for nature and adventure lovers.
+                </p>
+                <h3>Fun Facts</h3>
+                <ul>
+                    <li>El Nido means “The Nest” in Spanish, named after the edible swiftlet nests found in its cliffs.</li>
+                    <li>It’s part of the Bacuit Bay archipelago, consisting of around 45 islands and islets.</li>
+                    <li>El Nido has been featured in numerous international travel magazines as one of the world’s most beautiful islands.</li>
+                </ul>
+            </div>
+        </section>
+
+        <section id="Transportation">
+            <h2><i class="fa-solid fa-bus"></i> Transportation</h2>
+            <div class="transport-gallery">
+                <div class="transport-item">    
+                    <img src="van_palawan.jpg" alt="Van Transport">
+                    <h4>Van</h4>
+                    <p>From Puerto Princesa, you can take a 5–6 hour van or bus ride to El Nido.</p>
+                </div>
+
+                <div class="transport-item">
+                    <img src="boat_el_nido.jpg" alt="Boat Tour">
+                    <h4>Boat</h4>
+                    <p>Island-hopping boats take visitors to explore El Nido’s lagoons and beaches daily.</p>
+                </div>
+            </div>
+            <ul>
+                <li><b>By Air:</b> There are direct flights to El Nido (Lio Airport) and Puerto Princesa International Airport.</li>
+                <li><b>By Land:</b> Vans and buses connect Puerto Princesa to El Nido daily.</li>
+                <li><b>By Sea:</b> Private boats and ferries link El Nido with Coron and other Palawan islands.</li>
+            </ul>
+        </section>
+
+        <section id="tourism">
+            <h2><i class="fa-solid fa-globe"></i> Tourism and Development</h2>
+            <p>
+                El Nido’s tourism focuses on sustainable and eco-friendly practices. The local government and resorts
+                aim to balance tourism growth with environmental conservation, protecting marine life and coral reefs.
+            </p>
+            <ul>
+                <li>Strict eco-tourism rules to limit visitor numbers per island.</li>
+                <li>Use of renewable energy and waste reduction programs in resorts.</li>
+                <li>Community-based tourism supporting local livelihoods.</li>
+            </ul>
+        </section>
+
+        <section id="culture">
+            <h2><i class="fa-solid fa-users"></i> Culture</h2>
+            <ul>
+                <li>El Nido’s residents are mostly Cuyonon and Tagbanua, known for their hospitality and craftsmanship.</li>
+                <li>Local culture emphasizes respect for nature and traditional fishing practices.</li>
+                <li>Festivals and music reflect the peaceful island life and deep community spirit.</li>
+            </ul>
+        </section>
+
+        <section id="climate">
+            <h2><i class="fa-solid fa-sun"></i> Climate</h2>
+            <ul>
+                <li>Tropical climate: warm all year with average temperatures of 26–32°C.</li>
+                <li>Dry season: November to May — perfect for island-hopping and diving.</li>
+                <li>Rainy season: June to October, with occasional storms.</li>
+            </ul>
+        </section>
+
+        <section id="food">
+            <h2><i class="fa-solid fa-utensils"></i> Food and Cuisine</h2>
+            <h3>Popular Dishes in El Nido</h3>
+            <div class="food-gallery">
+                <div class="food-item">
+                    <img src="grilled_seafood.jpg" alt="Grilled Seafood">
+                    <h4>Grilled Seafood</h4>
+                    <p>Fresh fish, shrimp, squid, and lobsters grilled right by the beach — a staple in El Nido dining.</p>
+                </div>
+
+                <div class="food-item">
+                    <img src="kinilaw.jpg" alt="Kinilaw">
+                    <h4>Kinilaw</h4>
+                    <p>Fresh raw fish marinated in vinegar, lime, and spices — the Filipino version of ceviche.</p>
+                </div>
+
+                <div class="food-item">
+                    <img src="coconut_dishes.jpg" alt="Coconut-based Dishes">
+                    <h4>Coconut-based Dishes</h4>
+                    <p>Local recipes made with coconut milk, giving dishes a rich tropical flavor.</p>
+                </div>
+
+                <div class="food-item">
+                    <img src="halo_halo.jpg" alt="Halo-halo">
+                    <h4>Halo-Halo</h4>
+                    <p>A refreshing Filipino dessert made with shaved ice, sweet beans, fruits, and ice cream — perfect for island heat.</p>
+                </div>
+            </div>
+        </section>
+
+        <section id="activities">
+            <h2><i class="fa-solid fa-umbrella-beach"></i> Things To Do</h2>
+            <div class="food-gallery">
+                <div class="food-item">
+                    <img src="big_lagoon.jpg" alt="Big Lagoon">
+                    <h4>Explore Big Lagoon</h4>
+                    <p>Kayak through emerald waters surrounded by dramatic limestone cliffs.</p>
+                </div>
+
+                <div class="food-item">
+                    <img src="small_lagoon.jpg" alt="Small Lagoon">
+                    <h4>Swim in Small Lagoon</h4>
+                    <p>Enter through a narrow rock opening into a peaceful lagoon ideal for snorkeling.</p>
+                </div>
+
+                <div class="food-item">
+                    <img src="nacpan_beach.jpg" alt="Nacpan Beach">
+                    <h4>Relax at Nacpan Beach</h4>
+                    <p>Four kilometers of golden sand and clear water — one of the world’s most beautiful beaches.</p>
+                </div>
+
+                <div class="food-item">
+                    <img src="island_hopping.jpg" alt="Island Hopping">
+                    <h4>Island Hopping Tours</h4>
+                    <p>Join Tour A, B, C, or D to discover hidden lagoons, secret beaches, and coral reefs.</p>
+                </div>
+            </div>
+        </section>
+
+        <section id="stay">
+            <h2><i class="fa-solid fa-hotel"></i> Where to Stay</h2>
+            <div class="food-gallery">
+                <div class="food-item">
+                    <img src="elnido_resorts.jpg" alt="El Nido Resorts Miniloc Island">
+                    <h4>El Nido Resorts – Miniloc Island</h4>
+                    <a class="hotel-link" href="https://www.elnidoresorts.com/miniloc-island" target="_blank">Book here</a>
+                    <p>Eco-luxury resort surrounded by lagoons and limestone cliffs.</p>
+                </div>
+
+                <div class="food-item">
+                    <img src="lagnawan_island_resort.jpg" alt="Lagen Island Resort">
+                    <h4>Lagen Island Resort</h4>
+                    <a class="hotel-link" href="https://www.elnidoresorts.com/lagen-island" target="_blank">Book here</a>
+                    <p>Perfect for those seeking tranquility and comfort in a forest lagoon setting.</p>
+                </div>
+
+                <div class="food-item">
+                    <img src="spin_hostel.jpg" alt="Spin Hostel">
+                    <h4>Spin Hostel</h4>
+                    <a class="hotel-link" href="https://spinhostel.com" target="_blank">Book here</a>
+                    <p>A trendy, affordable hostel for backpackers near El Nido town.</p>
+                </div>
+
+                <div class="food-item">
+                    <img src="cadlao_resort.jpg" alt="Cadlao Resort">
+                    <h4>Cadlao Resort & Restaurant</h4>
+                    <a class="hotel-link" href="https://cadlaoresort.com" target="_blank">Book here</a>
+                    <p>Beachfront resort with stunning sunset views and excellent dining.</p>
+                </div>
+            </div>
+        </section>
+    </main>
+</body>
+</html>
