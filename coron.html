@@ -6,7 +6,7 @@
     <title>Coron Island</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css">
     <style>
-        body{
+      body{
             font-family: Arial, sans-serif;
             margin:0;
             padding:0;
@@ -75,6 +75,7 @@
         }
         .food-gallery{
             display:grid;
+            
             grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
             gap:1.5rem;
             margin-top:1rem;
@@ -94,7 +95,7 @@
         .food-item img{
             width:100%;
             border-radius: 10px;
-            height: 200px;
+            aspect-ratio: 16/10;
             object-fit:cover;
         }
         .food-item h4{
@@ -123,9 +124,7 @@
             h2{
                 font-size:1.5rem;
             }
-            .food-item img{
-                height:120px;
-            }
+           
             header h1{
                 font-size:1.4rem;
             }
@@ -216,7 +215,8 @@
         }
         .transport-item img{
             width:100%;
-            height:300px;
+            height:320px;
+            aspect-ratio: 4/5;
             object-fit:cover;
             border-radius:10px;
         }

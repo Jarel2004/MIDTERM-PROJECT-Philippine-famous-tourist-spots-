@@ -1,0 +1,563 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&family=Poppins:wght@300;400;500;600;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+:root {
+    --main-color: #000000;
+    --accent-color: #007bff;
+    --light-bg: #f8f8f8;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    background-color: var(--light-bg);
+    color: var(--main-color);
+}
+
+header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.8rem 1rem;
+    box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+}
+
+header h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    color: var(--accent-color);
+    letter-spacing: 1px;
+    font-size: clamp(1.2rem, 4vw, 1.8rem);
+}
+
+.nav-bar {
+    display: flex;
+    margin-right: clamp(4rem, 4vw, 4rem);
+}
+
+nav ul {
+    display: flex;
+    gap: clamp(0.8rem, 3vw, 2rem);
+    list-style: none;
+    flex-wrap: wrap;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: var(--main-color);
+    font-weight: 500;
+    transition: color 0.3s;
+    font-size: clamp(0.85rem, 2vw, 1rem);
+    white-space: nowrap;
+}
+
+nav ul li a:hover {
+    color: var(--accent-color);
+}
+
+main {
+    width: 100%;
+    margin-top: 60px;
+}
+
+.introduction {
+    position: relative;
+    width: 100%;
+    min-height: clamp(400px, 90vh, 90vh);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-image: url("mayonn.jpg");
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: center;
+    padding: 2rem 1rem;
+}
+
+.introduction::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.introduction h1, .introduction p {
+    position: relative;
+    z-index: 1;
+}
+
+.introduction h1 {
+    font-size: clamp(1.8rem, 6vw, 3rem);
+    font-weight: 700;
+    text-shadow: 2px 2px 6px black;
+    margin-bottom: 1rem;
+}
+
+.introduction p {
+    font-size: clamp(1rem, 2.5vw, 1.2rem);
+    margin-top: 1rem;
+    max-width: 700px;
+    padding: 0 1rem;
+    line-height: 1.6;
+}
+
+.about {
+    background-color: #fff;
+    margin: 2rem auto;
+    width: 90%;
+    max-width: 1100px;
+    padding: clamp(1.5rem, 4vw, 2rem);
+    border-radius: 20px;
+    box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.about h2 {
+    font-size: clamp(1.5rem, 4vw, 2rem);
+    margin-bottom: 1rem;
+    color: var(--accent-color);
+}
+
+.about p {
+    line-height: 1.7;
+    text-align: justify;
+    font-size: clamp(0.9rem, 2vw, 1rem);
+}
+
+main > h2 {
+    text-align: center;
+    color: #007bff;
+    font-size: clamp(1.5rem, 4vw, 2rem);
+    margin-bottom: 1rem;
+    margin-top: 2rem;
+    padding: 0 1rem;
+}
+
+.destination {
+    width: 90%;
+    max-width: 1300px;
+    margin: 2rem auto 3rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(min(100%, 280px), 1fr));
+    gap: clamp(1rem, 3vw, 2rem);
+}
+
+.place-cards {
+    background-color: #fff;
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s, box-shadow 0.3s;
+    display: flex;
+    flex-direction: column;
+}
+
+.place-cards:hover {
+    transform: translateY(-5px);
+    box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+.place-cards .img-wrapper {
+    width: 100%;
+    aspect-ratio: 1 / 1; 
+    background-size: cover;
+    background-position: center;
+    background-color: #ddd;
+    flex-shrink: 0;
+}
+
+.place-cards:nth-child(1) .img-wrapper { background-image: url('src/boracay.jpg'); }
+.place-cards:nth-child(2) .img-wrapper { background-image: url('src/elnido.jpg'); }
+.place-cards:nth-child(3) .img-wrapper { background-image: url('src/banaue.jpg'); }
+.place-cards:nth-child(4) .img-wrapper { background-image: url('src/siargao.jpg'); }
+.place-cards:nth-child(5) .img-wrapper { background-image: url('src/cebu.jpg'); }
+.place-cards:nth-child(6) .img-wrapper { background-image: url('src/mayonn.jpg'); }
+.place-cards:nth-child(7) .img-wrapper { background-image: url('src/bohol.jpg'); }
+.place-cards:nth-child(8) .img-wrapper { background-image: url('src/puertoprinsessaul.jpg'); }
+.place-cards:nth-child(9) .img-wrapper { background-image: url('src/coron.jpg'); }
+.place-cards:nth-child(10) .img-wrapper { background-image: url('src/camiguin.jpg'); }
+.place-cards:nth-child(11) .img-wrapper { background-image: url('src/donsol.jpg'); }
+.place-cards:nth-child(12) .img-wrapper { background-image: url('src/vigan.jpg'); }
+.place-cards:nth-child(13) .img-wrapper { background-image: url('src/launion.jpg'); }
+.place-cards:nth-child(14) .img-wrapper { background-image: url('src/taal.jpg'); }
+.place-cards:nth-child(15) .img-wrapper { background-image: url('src/manila.jpg'); }
+.place-cards:nth-child(16) .img-wrapper { background-image: url('src/pagudpud.jpg'); }
+.place-cards:nth-child(17) .img-wrapper { background-image: url('src/batanes.jpg'); }
+
+.place-cards h3 {
+    font-size: clamp(1.1rem, 2.5vw, 1.2rem);
+    margin: 1rem;
+    color: var(--accent-color);
+}
+
+.place-cards p {
+    font-size: clamp(0.9rem, 2vw, 0.95rem);
+    margin: 0 1rem 1rem;
+    line-height: 1.5;
+    flex-grow: 1;
+}
+
+.viewmore-btns {
+    display: block;
+    margin: 0 auto 1.2rem;
+    padding: 0.5rem 1.5rem;
+    border: none;
+    border-radius: 25px;
+    background-color: var(--accent-color);
+    color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    font-family: 'Poppins', sans-serif;
+    font-size: clamp(0.85rem, 2vw, 0.95rem);
+    white-space: nowrap;
+}
+
+.viewmore-btns:hover {
+    background-color: #0056b3;
+}
+
+.contact {
+    width: 90%;
+    max-width: 800px;
+    margin: 3rem auto;
+    background: #fff;
+    padding: clamp(1.5rem, 4vw, 2rem);
+    border-radius: 20px;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.contact h2 {
+    color: #007bff;
+    font-size: clamp(1.5rem, 4vw, 2rem);
+    margin-bottom: 1rem;
+}
+
+.contact > p {
+    margin-bottom: 1.5rem;
+    color: #555;
+    font-size: clamp(0.9rem, 2vw, 1rem);
+}
+
+.contact form {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin-top: 1rem;
+}
+
+.contact input, .contact textarea {
+    padding: clamp(0.7rem, 2vw, 0.8rem);
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    width: 100%;
+    font-size: clamp(0.9rem, 2vw, 1rem);
+    font-family: 'Poppins', sans-serif;
+}
+
+.contact input:focus, .contact textarea:focus {
+    outline: none;
+    border-color: var(--accent-color);
+}
+
+.contact button {
+    align-self: center;
+    padding: clamp(0.7rem, 2vw, 0.8rem) clamp(1.5rem, 4vw, 2rem);
+    border: none;
+    border-radius: 25px;
+    background-color: var(--accent-color);
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    font-family: 'Poppins', sans-serif;
+    font-size: clamp(0.9rem, 2vw, 1rem);
+    font-weight: 500;
+}
+
+.contact button:hover {
+    background-color: #0056b3;
+}
+
+footer {
+    background-color: #fff;
+    width: 100%;
+    text-align: center;
+    padding: clamp(1rem, 3vw, 1.2rem);
+    margin-top: 2rem;
+    box-shadow: 0px -2px 6px rgba(0,0,0,0.1);
+}
+
+footer p {
+    color: #555;
+    font-size: clamp(0.85rem, 2vw, 1rem);
+}
+
+.toggle-container {
+    position: absolute;
+    top: clamp(8px, 2vw, 10px);
+    right: clamp(8px, 2vw, 10px);
+    display: flex;
+    align-items: center;
+}
+
+.toggle-checkbox {
+    display: none;
+}
+
+.toggle-label {
+    display: block;
+    width: clamp(40px, 8vw, 50px);
+    height: clamp(20px, 4vw, 25px);
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    border-radius: 50px;
+    cursor: pointer;
+    position: relative;
+    transition: background 0.5s ease;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+.toggle-label::before {
+    content: '';
+    position: absolute;
+    top: 2.5px;
+    left: 2px;
+    width: clamp(16px, 3.5vw, 20px);
+    height: clamp(16px, 3.5vw, 20px);
+    background: #fff;
+    border-radius: 50%;
+    transition: transform 0.5s ease, background 0.5s ease;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+}
+
+.toggle-label::after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 1.5px;
+    transform: translateY(-50%);
+    font-size: clamp(12px, 2.5vw, 16px);
+    transition: opacity 0.3s ease;
+}
+
+.toggle-label .moon {
+    position: absolute;
+    top: 50%;
+    right: 1px;
+    transform: translateY(-50%);
+    font-size: clamp(12px, 2.5vw, 16px);
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.toggle-checkbox:checked ~ .toggle-label {
+    background: linear-gradient(135deg, #1e3a8a 0%, #312e81 100%);
+}
+
+.toggle-checkbox:checked ~ .toggle-label::before {
+    transform: translateX(clamp(18px, 4vw, 25px));
+    background: #1a202c;
+}
+
+.toggle-checkbox:checked ~ .toggle-label::after {
+    opacity: 0;
+}
+
+.toggle-checkbox:checked ~ .toggle-label .moon {
+    opacity: 1;
+}
+
+.toggle-checkbox:checked ~ body,
+body:has(.toggle-checkbox:checked) {
+    background-color: #1a202c;
+    color: #e2e8f0;
+}
+
+body:has(.toggle-checkbox:checked) header {
+    background-color: #2d3748;
+    box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.3);
+}
+
+body:has(.toggle-checkbox:checked) header h1 {
+    color: #63b3ed;
+}
+
+body:has(.toggle-checkbox:checked) nav ul li a {
+    color: #e2e8f0;
+}
+
+body:has(.toggle-checkbox:checked) nav ul li a:hover {
+    color: #63b3ed;
+}
+
+body:has(.toggle-checkbox:checked) .about,
+body:has(.toggle-checkbox:checked) .place-cards,
+body:has(.toggle-checkbox:checked) .card,
+body:has(.toggle-checkbox:checked) .travel-tips,
+body:has(.toggle-checkbox:checked) .gallery-item,
+body:has(.toggle-checkbox:checked) .itinerary,
+body:has(.toggle-checkbox:checked) .contact,
+body:has(.toggle-checkbox:checked) footer {
+    background-color: #2d3748;
+    color: #e2e8f0;
+    box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+body:has(.toggle-checkbox:checked) .about h2,
+body:has(.toggle-checkbox:checked) main > h2,
+body:has(.toggle-checkbox:checked) .food-and-culture h2,
+body:has(.toggle-checkbox:checked) .travel-tips h2,
+body:has(.toggle-checkbox:checked) .gallery h2,
+body:has(.toggle-checkbox:checked) .itineraries h2,
+body:has(.toggle-checkbox:checked) .contact h2,
+body:has(.toggle-checkbox:checked) .place-cards h3,
+body:has(.toggle-checkbox:checked) .card-content h4,
+body:has(.toggle-checkbox:checked) .tip-section h3,
+body:has(.toggle-checkbox:checked) .itinerary h3 {
+    color: #63b3ed;
+}
+
+body:has(.toggle-checkbox:checked) .about p,
+body:has(.toggle-checkbox:checked) .place-cards p,
+body:has(.toggle-checkbox:checked) .card-content p,
+body:has(.toggle-checkbox:checked) .tip-section p,
+body:has(.toggle-checkbox:checked) .tip-section li,
+body:has(.toggle-checkbox:checked) .itinerary p,
+body:has(.toggle-checkbox:checked) .contact > p,
+body:has(.toggle-checkbox:checked) .itineraries > p,
+body:has(.toggle-checkbox:checked) .gallery-item p,
+body:has(.toggle-checkbox:checked) footer p,
+body:has(.toggle-checkbox:checked) .food-and-culture h3 {
+    color: #cbd5e0;
+}
+
+body:has(.toggle-checkbox:checked) .contact input,
+body:has(.toggle-checkbox:checked) .contact textarea {
+    background-color: #4a5568;
+    border-color: #4a5568;
+    color: #e2e8f0;
+}
+
+body:has(.toggle-checkbox:checked) .contact input::placeholder,
+body:has(.toggle-checkbox:checked) .contact textarea::placeholder {
+    color: #a0aec0;
+}
+
+@media (max-width: 768px) {
+    header {
+        flex-direction: column;
+        gap: 0.8rem;
+        padding: 1rem 0.8rem;
+    }
+
+    .nav-bar {
+        margin-right: 0;
+        width: 100%;
+        justify-content: center;
+    }
+
+    nav ul {
+        justify-content: center;
+        gap: 0.8rem;
+    }
+
+    main {
+        margin-top: 100px;
+    }
+
+    .introduction {
+        min-height: 70vh;
+    }
+
+    .destination,
+    .food-culture-cards,
+    .gallery-grid,
+    .itinerary-cards {
+        grid-template-columns: repeat(auto-fill, minmax(min(100%, 220px), 1fr));
+    }
+}
+
+@media (max-width: 480px) {
+    header {
+        padding: 0.8rem 0.5rem;
+    }
+
+    .toggle-container {
+        position: fixed;
+        top: 8px;
+        right: 8px;
+        z-index: 1001;
+    }
+
+    nav ul {
+        gap: 0.5rem;
+    }
+
+    main {
+        margin-top: 110px;
+    }
+
+    .destination,
+    .food-culture-cards,
+    .gallery-grid,
+    .itinerary-cards {
+        grid-template-columns: 1fr;
+        gap: 1rem;
+    }
+
+    .introduction {
+        min-height: 60vh;
+        padding: 1.5rem 0.8rem;
+    }
+
+    .about,
+    .travel-tips,
+    .contact {
+        width: 95%;
+    }
+
+    .tip-section ul {
+        margin-left: 1rem;
+    }
+}
+
+@media (max-width: 360px) {
+    header h1 {
+        font-size: 1.1rem;
+    }
+
+    nav ul li a {
+        font-size: 0.8rem;
+    }
+
+    main {
+        margin-top: 120px;
+    }
+}
+
+@media (max-height: 500px) and (orientation: landscape) {
+    .introduction {
+        min-height: 100vh;
+    }
+
+    main {
+        margin-top: 80px;
+    }
+}
