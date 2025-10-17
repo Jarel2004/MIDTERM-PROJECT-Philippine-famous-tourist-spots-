@@ -1,1 +1,440 @@
-Ephraim
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vigan City</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css">
+    
+    <style>
+        body{
+            font-family: Arial, sans-serif;
+            margin:0;
+            padding:0;
+            background: #f4f6f8;
+            color: black;
+        }
+        header{
+            width:100%;
+            background: rgb(255,255,255);
+            color: blue;
+            box-shadow: 0px 0px 3px gray;
+            padding: 1rem;
+            position:fixed;
+            top:0;
+            z-index:100;
+            text-align:left;
+        }
+        .menu{
+            position:fixed;
+            display:flex;
+            top:10px;
+            right:20px;
+            z-index:100;
+        }
+        header h1{
+            margin:0;
+            font-size:2rem;
+        }
+        h2{
+            text-align: center;
+            color:#007bff;
+            margin-top: 2rem;
+            font-size:1.8rem;
+        }
+        section{
+            width:85%;
+            margin: 2rem auto;
+            background: #fff;
+            border-radius: 10px;
+            padding:2rem;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+
+        }
+        .main-image {
+            display: flex;
+            justify-content:center;
+            margin: 1rem 0;
+        }
+        .main-image img{
+            width:100%;
+            max-width: 800px;
+            border-radius:10px;
+            height:auto;
+        }
+        .destination-info h3{
+            color: #007bff;
+            margin-top:1rem;
+            text-transform:uppercase;
+
+        }
+        .destination-info p, .destination-info ul{
+            line-height:1.6;
+            text-align:justify;
+            font-size: 1rem;
+        }
+        ul{
+            padding-left:1.2rem;
+        }
+        .food-gallery{
+            display:grid;
+            
+            grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+            gap:1.5rem;
+            margin-top:1rem;
+        }
+        .food-item{
+            background:#fdfdfd;
+            border:1px solid #eee;
+            border-radius:10px;
+            padding:1rem;
+            text-align:center;
+            transition:transform 0.3s, box-shadow 0.3s;
+        }
+        .food-item:hover{
+            transform:translateY(-5px);
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+        }
+        .food-item img{
+            width:100%;
+            border-radius: 10px;
+            aspect-ratio: 16/10;
+            object-fit:cover;
+        }
+        .food-item h4{
+            color: #007bff;
+            margin: 0.8rem 0 0.4rem;
+        }
+        .food-item p{
+            color:#555;
+            font-size:1rem;
+        }
+        a.hotel-link{
+            display:inline-block;
+            margin-top: 0.3rem;
+            color:#007bff;
+            text-decoration:none;
+            font-weight:bold;
+        }
+        a.hotel-link:hover{
+            text-decoration:underline;
+        }
+        @media(max-width:768px){
+            section{
+                width:90%;
+                padding:1.5rem;
+            }
+            h2{
+                font-size:1.5rem;
+            }
+           
+            header h1{
+                font-size:1.4rem;
+            }
+        }
+        @media(max-width:480px){
+            .food-item{
+                padding:0.8rem;
+            }
+            .food-item h4{
+                font-size:1rem;
+            }
+            .food-item p{
+                font-size:0.9rem;
+            }
+        }
+        #menu-toggle{
+            display:none;
+        }
+        .hamburger{
+            position:absolute;
+            top:20px;
+            right:20px;
+            width:30px;
+            height:20px;
+            display:flex;
+            flex-direction:column;
+            justify-content:space-between;
+            cursor:pointer;
+            z-index:1000;
+    
+            
+        }
+        .hamburger span{
+            display:block;
+            width:100%;
+            height:3px;
+            background-color:black;
+            transition: all 0.3s ease;
+        }
+        #menu-toggle:checked + .hamburger span:nth-child(1){
+            transform:rotate(45deg) translate(5px,5px);
+        }
+        #menu-toggle:checked + .hamburger span:nth-child(2){
+            opacity: 0; 
+        }
+        #menu-toggle:checked + .hamburger span:nth-child(3){
+            transform:rotate(-45deg) translate(5px,-5px);
+        }
+        .nav-list{
+            position:fixed;
+            top:0;
+            right:0;
+            width:35vw;
+            height:100vh;
+            background-color:#f0f0f0;
+            transform:translateX(100%);
+            transition: transform 0.3s ease;
+            overflow-y:auto;
+            z-index:999;
+
+        }
+        #menu-toggle:checked ~ .nav-list{
+            transform:translateX(0);
+        }
+        .nav-list ul{
+            list-style:none;
+            padding:20px;
+            margin:0;
+        }
+        .nav-list ul li{
+            margin-bottom:15px;
+        }
+        .nav-list ul li a{
+            text-decoration:none;
+            color:black;
+            font-size:18px;
+        }
+        .transport-gallery{
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1.5rem;
+            margin-top: 20px;
+            text-align: center;
+        
+        }
+        .transport-item{
+            background:#fff;
+            border-radius: 10px;
+            padding: 1rem;
+            box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s;
+        }
+        
+        .transport-item img{
+            width:100%;
+            height:320px;
+            aspect-ratio: 4/5;
+            object-fit:cover;
+            border-radius:10px;
+        }
+        .transport-item h4{
+            color:#007bff;
+            margin:0.8rem 0 0.4rem;
+
+        }
+        .transport-item p{
+            color:#555;
+            font-size:0.95rem;
+        }
+        header h1:hover{
+            color:#0088cc;
+            transition:0.3s;
+        }
+
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>
+            <a href ="index.html" style ="text-decoration: none; color:inherit;">
+                <i class ="fa-solid fa-earth-asia"></i>Philippines
+            </a>
+        </h1>
+    </header>
+    <div class ="menu">
+        <input type = "checkbox" id="menu-toggle">
+        <label for ="menu-toggle" class ="hamburger">
+            <span></span> 
+            <span></span>
+            <span></span>
+           
+        </label>
+        <div class ="nav-list">
+            <ul>
+                <li><a href="#About">Overview</a></li>
+                <li><a href="#Transportation">Transportation</a></li>
+                <li><a href="#activities">Things to Do</a></li>
+                <li><a href="#tourism">Tourism and Development</a></li>
+                <li><a href="#culture">Culture</a></li>
+                <li><a href="#climate">Climate</a></li>
+                <li><a href="#food">Food and Cuisine</a></li>
+                <li><a href="#stay">Where to Stay</a></li>
+            </ul>
+        </div>
+    </div>
+    <main>
+        <section id ="About">
+            <h2><i class ="fa-solid fa-map-location-dot"></i>Vigan City</h2>
+            <div class ="main-image">
+                <img src="Vigan Cathedral.jpg" alt="Vigan Cathedral">
+            </div>
+            <div class = "destination-info">
+                <h3>About Vigan City</h3>
+                <p>
+                    Vigan City, the capital of Ilocos Sur and a UNESCO World Heritage Site, is famed for its well-preserved Spanish colonial architecture and cobblestone streets. Founded in 1572 by Juan de Salcedo, it blends Filipino, Chinese, and Spanish influences seen in Calle Crisologo, St. Paul’s Cathedral, and traditional Burnay pottery. Known for its longganisa, empanada, and bagnet, Vigan remains a vibrant symbol of Philippine history and culture.
+                </p>
+                <h3>Fun Facts</h3>
+                <ul>
+                    <li>Vigan is one of Asia’s best-preserved Spanish colonial cities, famous for its cobblestone streets and ancestral houses.</li>
+                    <li>You can explore the city’s historic streets on a horse-drawn carriage, just like people did centuries ago.</li>
+                    <li>In 2015, Vigan was recognized as one of the New7Wonders Cities of the World for its culture and heritage.</li>
+                </ul>
+            </div>
+        </section>
+        <section id ="Transportation">
+            <h2><i class ="fa-solid fa-bus"></i>Transportation</h2>
+            <div class="transport-gallery">
+                <div class="transport-item">    
+                    <img src ="Hourse Carrage.JPG" alt="Calesa">
+                    <h4>Calesa</h4>
+                    <p>A calesa is a traditional two-wheeled horse-drawn carriage in Vigan City, offering a nostalgic way to explore its historic cobblestone streets.</p>
+                </div>
+
+               <div class="transport-item">
+                <img src="tricycles.JPG" alt="Tricycle">
+                <h4>Tricycle</h4>
+                <p>A tricycle in Vigan City is a convenient and affordable three-wheeled vehicle for short trips.</p>
+               </div>
+            </div>
+            <ul>
+                <li><b>By air:</b> Travelers can reach Vigan City via Laoag International Airport, about two hours away by land.</li>
+                <li><b>To famous places:</b> Private vans or tour vehicles are commonly used to visit Vigan’s heritage sites and nearby attractions.</li>
+                <li><b>Local Transport:</b> The calesa and tricycle are popular local rides for exploring the city’s streets and landmarks.</li>
+            </ul>
+        </section>
+        <section id ="tourism">
+            <h2><i class ="fa-solid fa-bus"></i>Tourism and Development</h2>
+            <ul>
+                <p>Vigan City’s tourism boosts its economy by drawing visitors to its UNESCO-listed heritage sites, supporting local industries like pottery, weaving, and food, and inspiring efforts to preserve its cultural identity.</p>
+                <li>Promotes heritage conservation and cultural pride.</li>
+                <li>Provides jobs and income for local residents.</li>
+                <li>Supports traditional crafts and small businesses.</li>
+            
+            </ul>
+        </section>
+           <section id ="culture">
+            <h2><i class ="fa-solid fa-users"></i>Culture</h2>
+            <ul>
+                <p>Vigan City’s culture reflects a rich blend of Filipino, Spanish, and Chinese influences seen in its architecture, crafts, festivals, and cuisine, preserving traditions that date back to the colonial era.
+                </p>
+                <li>Celebrated through the Viva Vigan Festival of the Arts.</li>
+                <li>Known for traditional abel weaving and burnay pottery.</li>
+                <li>Famous for local dishes like Vigan longganisa and empanada.</li>
+            </ul>
+           </section>
+           <section id ="climate">
+            <h2><i class ="fa-solid fa-sun"></i>Climate</h2>
+            <ul>
+                <p>Vigan City has a tropical climate with hot, dry summers from March to May and a rainy season from June to October, while the cooler months last from November to February.</p>
+                <li>Dry season: March to May, ideal for sightseeing.</li>
+                <li>Rainy season: June to October with frequent showers.</li>
+                <li>Cool months: November to February, best for travel.</li>
+            </ul>
+           </section>
+
+           <section id ="food">
+            <h2><i class ="fa-solid fa-utensils"></i>Food</h2>
+            <h3>Popular Filipino Dishes</h3>
+
+            <div class ="food-gallery">
+
+                <div class="food-item">
+                    <img src ="longganisa.jpg" alt="Vigan Longganisa">
+                    <h4>Vigan Longganisa</h4>
+                    <p>A small, garlicky, and tangy native sausage that’s usually fried and paired with rice and vinegar.</p>
+                </div>
+
+                <div class="food-item">
+                    <img src ="empanada.jpg" alt="Vigan Empanada">
+                    <h4>Vigan Empanada</h4>
+                    <p>A deep-fried orange pastry filled with longganisa, egg, and grated green papaya, crispy on the outside and savory inside.</p>
+                </div>
+
+                 <div class="food-item">
+                        <img src ="Bagnet.jpg" alt="Bagnet">
+                        <h4>Bagnet</h4>
+                        <p>A famous Ilocano deep-fried pork belly that’s crunchy outside and tender inside, often eaten with tomatoes or vinegar.</p>
+                </div>
+
+                <div class="food-item">
+                        <img src ="Sinanglao.jpg" alt="Sinanglao">
+                        <h4>Sinanglao</h4>
+                        <p>A hearty, sour beef soup made with innards and bile, commonly enjoyed by locals as comfort food.</p>
+                 </div> 
+            </div>
+             </section> 
+        <section id ="activities">
+            <h2><i class ="fa-solid fa-umbrella-beach"></i>Things To Do</h2>
+        <h3>Top Activities in Boracay</h3>
+        <div class ="food-gallery">
+            <div class ="food-item">
+                <img src ="Calesa Travelling.jpg" alt ="Calesa Travelling">
+                <h4>Ride a Calesa along Calle Crisologo</h4>
+                <p>Experience the charm of Vigan’s cobblestone streets and centuries-old Spanish houses.</p>
+            </div>
+        <div class ="food-item">
+            <img src ="Pottery.jpg" alt ="pottery">
+                <h4>Try Pottery Making at Pagburnayan</h4>
+                <p>Learn how traditional burnay jars are made using ancient clay techniques.</p>
+        </div>
+        <div class ="food-item">
+            <img src ="St.Paul.jpg" alt ="Visiting St. Paul Cathedral">
+            <h4>Visit St. Paul’s Cathedral and Bantay Bell Tower</h4>
+            <p>Explore Vigan’s iconic church and enjoy a panoramic view of the city.</p>
+        </div>
+        <div class="food-item">
+            <img src="Foods.jpg" alt="Local Delicacies">
+            <h4>Taste Local Delicacies</h4>
+            <p>Savor authentic Ilocano dishes like Vigan longganisa, empanada, and bagnet at local eateries.</p>
+        </div>
+        </div>
+        </section>
+
+        <section id ="stay">
+            <h2><i class ="fa-solid fa-hotel"></i>Where to Stay</h2>
+            <p>Here are some recommended hotels in Vigan City:</p>
+
+            <div class ="food-gallery">
+                <div class ="food-item">
+                    <img src ="1.jpg" alt ="Hotel Luna ">
+                    <h4>Hotel Luna </h4>
+                    <a class="hotel-link" href="https://www.booking.com/hotel/ph/po-hotel-luna-vigan.html" target="_blank">Book here </a>
+                    <p>A luxury “museum hotel” in Vigan known for its art collection and heritage design.</p>
+                </div>
+                <div class ="food-item">
+                    <img src ="2.jpg" alt="Paradores de Vigan ">
+                    <h4>Paradores de Vigan </h4>
+                    <a class="hotel-link" href="https://www.booking.com/hotel/ph/paradores-de-vigan.html" target="_blank">Book here </a>
+                    <p>A boutique condotel offering spacious rooms with kitchenettes and a quiet garden retreat.</p>
+
+                </div>
+            <div class ="food-item">
+                <img src ="3.jpg" alt ="Villa Angela Heritage House">
+                <h4>Villa Angela Heritage House</h4>
+                <a class="hotel-link" href="https://www.hotels.com/ho3199477216/villa-angela-heritage-house-vigan-philippines/" target="_blank">Book here </a>
+                <p>A restored 19th-century ancestral home turned heritage inn in the heart of Vigan.</p>
+                </div>
+            <div class ="food-item">
+                <img src="4.jpg" alt="Casa Marita Vigan">
+                 <h4>Casa Marita Vigan</h4>
+                 <a class="hotel-link" href="https://www.booking.com/hotel/ph/zen-rooms-casa-marita-vigan.html" target="_blank">Book here </a>
+                <p>A cozy boutique B&B a short walk from Calle Crisologo with simple modern comforts.</p>
+                </div>
+                </div>
+        </section>
+
+    </main>
+</body>
+</html>

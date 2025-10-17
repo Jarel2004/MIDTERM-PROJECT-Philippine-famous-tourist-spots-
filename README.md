@@ -21,8 +21,27 @@ surside-https://cf.bstatic.com/xdata/images/hotel/max1024x768/122324018.jpg?k=17
 trii-https://media.istockphoto.com/id/1287066732/photo/tricycle-is-a-popular-transport-in-philippines.jpg?s=612x612&w=0&k=20&c=XIyCLqh5gpWSyDmtxyRau58hlWlXnnCaR9OLuvrjWgA= 
 
 <<<<<<< HEAD
-VILLASURDA - Palawan
+VILLASURDA 
+Camiguin Island
 
+Donsol
+
+Vigan City
+Vigan Cathedral - https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Allan_Jay_Quesada_-_Vigan_Cathedral_001.jpg/1920px-Allan_Jay_Quesada_-_Vigan_Cathedral_001.jpg
+Calesa - https://en.wikipedia.org/wiki/File:Horse_carriages_in_Vigan_City.JPG
+Tricycle - https://3.bp.blogspot.com/-Mz4Yp7tXCK4/UxQuoTAlx_I/AAAAAAAAEYY/NxVudWrTZZM/s1600/tricycles.JPG
+Vigan Longanisa - https://i.ytimg.com/vi/BcXgfvtI8N4/maxresdefault.jpg
+Vigan Empanada - https://bing.com/th?id=OSK.4178eb93853c8faa64ff65a69e438345
+Bagnet - https://th.bing.com/th/id/R.d62ac8781817d347d2438f6ec89534b9?rik=J1HX5IliEUtmDA&riu=http%3a%2f%2fcdn.shopify.com%2fs%2ffiles%2f1%2f0463%2f2041%2f8983%2fproducts%2fViganBagnet_1200x1200.jpg%3fv%3d1632453247&ehk=P3njbL7wqQUNy2eig2CjFqEiQA18h%2bZxz24ntsQ53TE%3d&risl=&pid=ImgRaw&r=0
+Sinanglao - https://i.ytimg.com/vi/19O2xSM4Kcs/maxresdefault.jpg
+Calesa Travelling - https://1.bp.blogspot.com/-eyN0Vo1Yrzs/XQOAKTEiWwI/AAAAAAAAFkM/mb1NZDr66SEbs4x9xYHJX1EN02REh9kwgCLcBGAs/s640/Calle%2BCrisologo%2BCalesa%2BRide%2BVigan%2BIlocos%2BSur.jpg
+Pottery - https://th.bing.com/th/id/R.6d516153aa41bf0a6ccbfb48b96eed29?rik=fdcmcYVRa2FdeQ&riu=http%3a%2f%2f3.bp.blogspot.com%2f-V3580a2solE%2fV5wc1uem8dI%2fAAAAAAAAEug%2fNxlv2-ZjJDAuG4nalJvCdNyZFP4xMNbHACK4B%2fs1600%2fPagburnayan%252BPottery%252B%2525286%252529.JPG&ehk=zPH6ESHOKux%2fdSsYswJIf%2bqvP4NWgn5xM1wPhN6zG%2fY%3d&risl=&pid=ImgRaw&r=0
+St. Paul Cathedral - https://live.staticflickr.com/797/41036786501_2b7547d932_b.jpg
+Delicacy - https://chibogtayoph.com/wp-content/uploads/2022/05/Ikan-Dampa-Vigan-1536x1152.jpg
+Hotel 1 - https://gttp.images.tshiftcdn.com/293549/x/0/10-best-hotels-in-vigan-ilocos-sur-unesco-world-heritage-city-11.jpg?auto=compress%2Cformat&ch=Width%2CDPR&dpr=1&ixlib=php-3.3.0&w=883
+Hotel 2 - https://gttp.images.tshiftcdn.com/293547/x/0/10-best-hotels-in-vigan-ilocos-sur-unesco-world-heritage-city-10.jpg?auto=compress%2Cformat&ch=Width%2CDPR&dpr=1&ixlib=php-3.3.0&w=883
+Hotel 3 - https://gttp.images.tshiftcdn.com/293546/x/0/10-best-hotels-in-vigan-ilocos-sur-unesco-world-heritage-city-9.jpg?auto=compress%2Cformat&ch=Width%2CDPR&dpr=1&ixlib=php-3.3.0&w=883
+Hotel 4 - https://gttp.images.tshiftcdn.com/293545/x/0/10-best-hotels-in-vigan-ilocos-sur-unesco-world-heritage-city-8.jpg?auto=compress%2Cformat&ch=Width%2CDPR&dpr=1&ixlib=php-3.3.0&w=883
 
 
 =======
