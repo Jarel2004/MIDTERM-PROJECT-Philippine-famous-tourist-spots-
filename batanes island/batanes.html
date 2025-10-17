@@ -242,7 +242,181 @@ rudgie's territory
             color:#0088cc;
             transition:0.3s;
         }
-
+        :root
+        {
+          --first-color: hsl(82, 60%, 28%);
+          --title-color: hsl(0, 0%, 15%);
+          --text-color: hsl(0, 0%, 35%);
+          --body-color: hsl(0, 0%, 95%);
+          --container-color: hsl(0, 0%, 100%);
+          --body-font: "Poppins", sans-serif;
+          --h2-font-size: 1.25rem;
+          --small-font-size: .813rem;
+        }
+        
+        @media screen and (min-width: 1120px)
+        {
+          :root {
+            --h2-font-size: 1.5rem;
+            --small-font-size: .875rem;
+          }
+        }
+        
+        *
+        {
+          box-sizing: border-box;
+          padding: 0;
+          margin: 0;
+        }
+        
+        body
+        {
+          font-family: var(--body-font);
+          background-color: var(--body-color);
+          color: var(--text-color);
+        }
+        
+        img
+        {
+          display: block;
+          max-width: 100%;
+          height: auto;
+        }
+        
+        .container
+        {
+          display: grid;
+          place-items: center;
+          margin-inline: 1.5rem;
+          padding-block: 5rem;
+        }
+        
+        .card__container
+        {
+          display: grid;
+          row-gap: 3.5rem;
+        }
+        
+        .card__article
+        {
+          position: relative;
+          overflow: hidden;
+        }
+        
+        .card__img
+        {
+          width: 100%;
+          height: 300px;
+          object-fit: cover;
+          border-radius: 1.5rem;
+        }
+        
+        .card__data
+        {
+          width: 280px;
+          background-color: var(--container-color);
+          padding: 1.5rem 2rem;
+          box-shadow: 0 8px 24px hsla(0, 0%, 0%, .15);
+          border-radius: 1rem;
+          position: absolute;
+          bottom: -9rem;
+          left: 0;
+          right: 0;
+          margin-inline: auto;
+          opacity: 0;
+          transition: opacity 1s 1s;
+        }
+        
+        .card__description
+        {
+          display: block;
+          font-size: var(--small-font-size);
+          margin-bottom: .25rem;
+        }
+        
+        .card__title
+        {
+          font-size: var(--h2-font-size);
+          font-weight: 500;
+          color: var(--title-color);
+          margin-bottom: .75rem;
+        }
+        
+        .card__button
+        {
+          text-decoration: none;
+          font-size: var(--small-font-size);
+          font-weight: 500;
+          color: var(--first-color);
+        }
+        
+        .card__button:hover
+        {
+          text-decoration: underline;
+        }
+        
+        .card__article:hover .card__data
+        {
+          animation: show-data 1s forwards;
+          opacity: 1;
+          transition: opacity .3s;
+        }
+        
+        .card__article:hover
+        {
+          animation: remove-overflow 2s forwards;
+        }
+        
+        .card__article:not(:hover)
+        {
+          animation: show-overflow 2s forwards;
+        }
+        
+        .card__article:not(:hover) .card__data
+        {
+          animation: remove-data 1s forwards;
+        }
+        
+        @keyframes show-data
+        {
+          50% {
+            transform: translateY(-10rem);
+          }
+          100% {
+            transform: translateY(-7rem);
+          }
+        }
+        
+        @keyframes remove-overflow
+        {
+          to {
+            overflow: initial;
+          }
+        }
+        
+        @keyframes remove-data
+        {
+          0% {
+            transform: translateY(-7rem);
+          }
+          50% {
+            transform: translateY(-10rem);
+          }
+          100% {
+            transform: translateY(.5rem);
+          }
+        }
+        
+        @keyframes show-overflow
+        {
+          0% {
+            overflow: initial;
+            pointer-events: none;
+          }
+          50% {
+            overflow: hidden;
+          }
+        }
     </style>
 </head>
 
@@ -346,33 +520,47 @@ rudgie's territory
             <h2><i class ="fa-solid fa-utensils"></i>Food</h2>
             <h3>Popular Filipino Dishes</h3>
 
-            <div class ="food-gallery">
-
-                <div class="food-item">
-                    <img src ="src/adobo1.jpg" alt="Adobo">
-                    <h4>Adobo</h4>
-                    <p>Chicken or pork braised in soy sauce, vinegar, and garlic — the classic Filipino favorite.</p>
-                </div>
-
-                <div class="food-item">
-                    <img src ="src/sinigang.jpg" alt="Sinigang">
-                    <h4>Sinigang</h4>
-                    <p>A tangy tamarind soup with vegetables and your choice of meat or shrimp.</p>
-                </div>
-
-                 <div class="food-item">
-                        <img src ="src/lechon1.jpg" alt="Lechon">
-                        <h4>Lechon</h4>
-                        <p>Roast pig, known for its crispy skin and tender meat, often served at celebrations.</p>
-                </div>
-
-                <div class="food-item">
-                        <img src ="src/halo.jpg" alt="Halo-Halo">
-                        <h4>Halo-Halo</h4>
-                        <p>A refreshing dessert made with crushed ice, sweet beans, fruits, and topped with leche flan or ube.</p>
-                 </div> 
-            </div>
-             </section> 
+            <div class="gallery">
+             <div class="item">
+                <article class="card__article">
+                   <img src="adobo.jpg" alt="adobo" class="card__img">
+    
+                   <div class="card__data">
+                      <span class="card__description">Chicken or pork braised in soy sauce, vinegar, and garlic — the classic Filipino favorite.</span>
+                      <h2 class="card__title">Adobo</h2>
+                   </div>
+                </article>
+    
+                <article class="card__article">
+                   <img src="sinigang.jpg" alt="sinigang" class="card__img">
+    
+                   <div class="card__data">
+                      <span class="card__description">A tangy tamarind soup with vegetables and your choice of meat or shrimp.</span>
+                      <h2 class="card__title">Sinigang</h2>
+                   </div>
+                </article>
+    
+                <article class="card__article">
+                   <img src="lechon.jpg" alt="lechon" class="card__img">
+    
+                   <div class="card__data">
+                      <span class="card__description">Roast pig, known for its crispy skin and tender meat, often served at celebrations.</span>
+                      <h2 class="card__title">Lechon</h2>
+                   </div>
+                </article>
+    
+                <article class="card__article">
+                   <img src="halo-halo.jpg" alt="halo-halo" class="card__img">
+    
+                   <div class="card__data">
+                      <span class="card__description">A refreshing dessert made with crushed ice, sweet beans, fruits, and topped with leche flan or ube.</span>
+                      <h2 class="card__title">Halo-Halo</h2>
+                   </div>
+                </article>
+              </div>
+             </div>
+           </section> 
+           
         <section id ="activities">
             <h2><i class ="fa-solid fa-umbrella-beach"></i>Things To Do</h2>
         <h3>Top Activities in Boracay</h3>
