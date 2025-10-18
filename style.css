@@ -85,7 +85,7 @@ main {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-image: url("mayonn.jpg");
+    background-image: url("src/mayonn.jpg");
     background-size: cover;
     background-position: center;
     color: white;
