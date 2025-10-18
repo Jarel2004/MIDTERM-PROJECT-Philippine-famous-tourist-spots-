@@ -20,9 +20,27 @@ sinigang-https://cf.bstatic.com/xdata/images/hotel/max1024x768/295687341.jpg?k=0
 surside-https://cf.bstatic.com/xdata/images/hotel/max1024x768/122324018.jpg?k=17596ff45c0b6d201a195ed2b2a9bd5913eee521ef939ca917eda7e2d60dc028&o=
 trii-https://media.istockphoto.com/id/1287066732/photo/tricycle-is-a-popular-transport-in-philippines.jpg?s=612x612&w=0&k=20&c=XIyCLqh5gpWSyDmtxyRau58hlWlXnnCaR9OLuvrjWgA= 
 
-<<<<<<< HEAD
-VILLASURDA 
+VILLASURDA, EPHRAIM
+
+Siargao
+
 Camiguin Island
+Island Pic - https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Timpoong_and_Hibok-Hibok_Natural_Monument_in_Camiguin_-_Allan_Jay_Quesada.jpg/1920px-Timpoong_and_Hibok-Hibok_Natural_Monument_in_Camiguin_-_Allan_Jay_Quesada.jpg
+HabalHabal - https://c2.staticflickr.com/4/3681/9464885129_e80b7c442f_b.jpg
+Multicab - https://2.bp.blogspot.com/-BFKPOaHVmv0/Tbe75pS2d-I/AAAAAAAAABA/WTJROfde754/s1600/multicab.jpg
+Lanzones - https://hicaps.com.ph/wp-content/uploads/2022/10/lanzones-festival-philippines.jpg
+Kiping - https://philippinetravels.ph/wp-content/uploads/2022/08/15-Camiguin-Tourist-Spots-Kiping-1024x768.jpg
+Pastel - https://i.pinimg.com/originals/19/28/8d/19288ddf04a085bffe95db4712193e02.jpg
+Surol - https://ik.imagekit.io/avdg/newsroom/wp-content/uploads/2022/01/Camiguin-Cuisine-Blog-photos-04-768x543.jpg
+whiteisland - https://deih43ym53wif.cloudfront.net/white-siland-Camiguin-Philippines-shutterstock_1439447942.jpg_2f20ecb1f5.jpg
+sunken cemetary - https://pinaywise.com/wp-content/uploads/2024/03/Sunken-Cemetery-Camiguin-Mindanao.jpg
+mt. hibok - https://i.redd.it/the-mt-hibok-hibok-of-camiguin-island-philippines-v0-om4o7dlv64y91.jpg?s=bad4cd557b7e69ce704785070549e0acf4655a25
+katibawasan - https://www.jonnymelon.com/wp-content/uploads/2019/09/katibawasan-falls-8-510x382.jpg
+hotel 1 - https://agohoresort.com/wp-content/uploads/2022/04/IMG_9218-modif-1500-800x800.jpg
+hotel 2 - https://cf.bstatic.com/xdata/images/hotel/max1024x768/721227983.jpg?k=0f706ca14c8f8ec0be8677033cf68fbfc130a746b7bf0d455763de2815be1446&o=
+hotel 3 - https://cf.bstatic.com/xdata/images/hotel/square600/620045044.webp?k=da084e9c1b3fa3e1e5ac96ae96a2151d8837f4faaa6ea57f6ebd12a294882bda&o=
+hotel 4 - https://cf.bstatic.com/xdata/images/hotel/max1024x768/358612351.jpg?k=afe79c64aa37f1216317399105da3d4e0eff7c415aee7b78b928d3837d5cf38a&o=
+
 
 Donsol
 
