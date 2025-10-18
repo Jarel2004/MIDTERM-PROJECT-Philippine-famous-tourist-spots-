@@ -14,7 +14,7 @@
             background: rgb(255,255,255);
             color: blue;
             box-shadow: 0px 0px 3px gray;
-            padding: 1rem;
+            padding: 0.5rem;
             position:fixed;
             top:0;
             z-index:100;
@@ -28,8 +28,10 @@
             z-index:100;
         }
         header h1{
+            font-family: 'Montserrat', sans-serif;
             margin:0;
-            font-size:2rem;
+            font-size:1.9rem;
+            color: var(--accent-color);
         }
         h2{
             text-align: center;
@@ -80,7 +82,8 @@
         }
         .food-item{
             background:#fdfdfd;
-            border:1px solid #eee;
+            border:2px solid #d7d4d4;
+
             border-radius:10px;
             padding:1rem;
             text-align:center;
@@ -142,7 +145,7 @@
             display:none;
         }
         .hamburger{
-            position:absolute;
+            position:fixed;
             top:20px;
             right:20px;
             width:30px;
@@ -175,7 +178,7 @@
             position:fixed;
             top:0;
             right:0;
-            width:35vw;
+            width:20vw;
             height:100vh;
             background-color:#f0f0f0;
             transform:translateX(100%);
@@ -251,6 +254,45 @@
             color: #555;
             font-size: clamp(0.85rem, 2vw, 1rem);
         }
+        .nav-list ul li a:hover{
+            color: #1d7be0;
+            font-weight:bold;
+            background-color: #dbe1e6;
+            padding: 8px 12px;
+            border-radius: 6px;
+            transition: 0.3s;
+        }
+        .overlay{
+            position: fixed;
+            top:0;
+            left:0;
+            width:100%;
+            height:100%;
+            background: rgba(0,0,0,0.4);
+            opacity: 0;
+            pointer-events:none;
+            transition: opacity 0.3s ease;
+            z-index:500;
 
-        
+        }
+        #menu-toggle:checked ~ .overlay{
+            opacity: 1;
+            pointer-events: auto;
+        }
+       .overlay{
+        position:fixed;
+        top:0;
+        left:0;
+        width:100%;
+        height:100%;
+        background: rgba(0,0,0,0.4);
+        opacity: 0;
+        pointer-events: none;
+        transition: opacity 0.3s ease;
+        z-index:500;
 
+       }
+       #menu-toggle:checked ~ .overlay{
+        opacity: 1;
+        pointer-events: auto;
+       }
