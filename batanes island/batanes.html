@@ -42,6 +42,7 @@ rudgie's territory
             text-align: center;
             color:#007bff;
             margin-top: 2rem;
+            margin-bottom: 1rem;
             font-size:1.8rem;
         }
         section{
@@ -51,7 +52,10 @@ rudgie's territory
             border-radius: 10px;
             padding:2rem;
             box-shadow: 0 4px 10px rgba(0,0,0,0.1);
-
+            margin-top: 3rem;
+        }
+        .main{
+            padding-top: 100px;
         }
         .main-image {
             display: flex;
@@ -74,42 +78,10 @@ rudgie's territory
             line-height:1.6;
             text-align:justify;
             font-size: 1rem;
+            margin-bottom: 1.2rem;
         }
         ul{
             padding-left:1.2rem;
-        }
-        .food-gallery{
-            display:grid;
-            
-            grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
-            gap:1.5rem;
-            margin-top:1rem;
-        }
-        .food-item{
-            background:#fdfdfd;
-            border:1px solid #eee;
-            border-radius:10px;
-            padding:1rem;
-            text-align:center;
-            transition:transform 0.3s, box-shadow 0.3s;
-        }
-        .food-item:hover{
-            transform:translateY(-5px);
-            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
-        }
-        .food-item img{
-            width:100%;
-            border-radius: 10px;
-            aspect-ratio: 16/10;
-            object-fit:cover;
-        }
-        .food-item h4{
-            color: #007bff;
-            margin: 0.8rem 0 0.4rem;
-        }
-        .food-item p{
-            color:#555;
-            font-size:1rem;
         }
         a.hotel-link{
             display:inline-block;
@@ -121,30 +93,7 @@ rudgie's territory
         a.hotel-link:hover{
             text-decoration:underline;
         }
-        @media(max-width:768px){
-            section{
-                width:90%;
-                padding:1.5rem;
-            }
-            h2{
-                font-size:1.5rem;
-            }
-           
-            header h1{
-                font-size:1.4rem;
-            }
-        }
-        @media(max-width:480px){
-            .food-item{
-                padding:0.8rem;
-            }
-            .food-item h4{
-                font-size:1rem;
-            }
-            .food-item p{
-                font-size:0.9rem;
-            }
-        }
+
         #menu-toggle{
             display:none;
         }
@@ -239,12 +188,14 @@ rudgie's territory
             color:#555;
             font-size:0.95rem;
         }
+        .transport__details{
+            margin-top: 1.5rem;
+        }
         header h1:hover{
             color:#0088cc;
             transition:0.3s;
         }
-        :root
-        {
+        :root {
           --first-color: hsl(82, 60%, 28%);
           --title-color: hsl(0, 0%, 15%);
           --text-color: hsl(0, 0%, 35%);
@@ -255,72 +206,72 @@ rudgie's territory
           --small-font-size: .813rem;
         }
         
-        @media screen and (min-width: 1120px)
-        {
+        @media screen and (min-width: 1120px) {
           :root {
             --h2-font-size: 1.5rem;
             --small-font-size: .875rem;
           }
         }
         
-        *
-        {
+        * {
           box-sizing: border-box;
           padding: 0;
           margin: 0;
         }
         
-        body
-        {
-          font-family: var(--body-font);
-          background-color: var(--body-color);
-          color: var(--text-color);
-        }
-        
-        img
-        {
+        img {
           display: block;
           max-width: 100%;
           height: auto;
         }
         
-        .container
-        {
+        .container {
           display: grid;
           place-items: center;
           margin-inline: 1.5rem;
           padding-block: 5rem;
         }
-        
-        .card__container
-        {
+        .card__container {
           display: grid;
-          row-gap: 3.5rem;
+          grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+          gap: 1.2rem;
+          margin-top: 1rem;
+          justify-items: center;
         }
         
-        .card__article
-        {
+        .card__article {
           position: relative;
           overflow: hidden;
+          background: #fdfdfd;
+          border: 1px solid #eee;
+          border-radius: 10px;
+          padding: 1rem;
+          text-align: center;
+          transition: transform 0.3s, box-shadow 0.3s;
+          max-width: 320px;
         }
         
-        .card__img
-        {
+        .card__article:hover {
+          transform: translateY(-5px);
+          box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+        }
+        
+        .card__img {
           width: 100%;
-          height: 300px;
+          aspect-ratio: 6/4;
           object-fit: cover;
-          border-radius: 1.5rem;
+          border-radius: 10px;
+          height: auto;
         }
         
-        .card__data
-        {
-          width: 280px;
+        .card__data {
+          width: 90%;
           background-color: var(--container-color);
-          padding: 1.5rem 2rem;
-          box-shadow: 0 8px 24px hsla(0, 0%, 0%, .15);
-          border-radius: 1rem;
+          padding: 1rem;
+          box-shadow: 0 6px 20px hsla(0, 0%, 0%, .15);
+          border-radius: 10px;
           position: absolute;
-          bottom: -9rem;
+          bottom: -7rem;
           left: 0;
           right: 0;
           margin-inline: auto;
@@ -328,94 +279,97 @@ rudgie's territory
           transition: opacity 1s 1s;
         }
         
-        .card__description
-        {
+        .card__description {
           display: block;
           font-size: var(--small-font-size);
+          color: #555;
           margin-bottom: .25rem;
         }
         
-        .card__title
-        {
-          font-size: var(--h2-font-size);
+        .card__title {
+          font-size: 1.1rem;
           font-weight: 500;
-          color: var(--title-color);
-          margin-bottom: .75rem;
+          color: #007bff;
+          margin-bottom: .5rem;
         }
         
-        .card__button
-        {
-          text-decoration: none;
-          font-size: var(--small-font-size);
-          font-weight: 500;
-          color: var(--first-color);
-        }
-        
-        .card__button:hover
-        {
-          text-decoration: underline;
-        }
-        
-        .card__article:hover .card__data
-        {
+        .card__article:hover .card__data {
           animation: show-data 1s forwards;
           opacity: 1;
           transition: opacity .3s;
         }
         
-        .card__article:hover
-        {
+        .card__article:hover {
           animation: remove-overflow 2s forwards;
         }
         
-        .card__article:not(:hover)
-        {
+        .card__article:not(:hover) {
           animation: show-overflow 2s forwards;
         }
         
-        .card__article:not(:hover) .card__data
-        {
+        .card__article:not(:hover) .card__data {
           animation: remove-data 1s forwards;
         }
         
-        @keyframes show-data
-        {
+        @keyframes show-data {
           50% {
-            transform: translateY(-10rem);
+            transform: translateY(-6rem);
           }
           100% {
-            transform: translateY(-7rem);
+            transform: translateY(-4rem);
           }
         }
         
-        @keyframes remove-overflow
-        {
-          to {
-            overflow: initial;
-          }
-        }
-        
-        @keyframes remove-data
-        {
+        @keyframes remove-data {
           0% {
-            transform: translateY(-7rem);
+            transform: translateY(-4rem);
           }
           50% {
-            transform: translateY(-10rem);
+            transform: translateY(-6rem);
           }
           100% {
             transform: translateY(.5rem);
           }
         }
         
-        @keyframes show-overflow
-        {
+        @keyframes remove-overflow {
+          to {
+            overflow: initial;
+          }
+        }
+        
+        @keyframes show-overflow {
           0% {
             overflow: initial;
             pointer-events: none;
           }
           50% {
             overflow: hidden;
+          }
+        }
+        
+        @media screen and (max-width: 340px) {
+          .container {
+            margin-inline: 1rem;
+          }
+        
+          .card__data {
+            width: 250px;
+            padding: 1rem;
+          }
+        }
+        
+        @media screen and (min-width: 768px) {
+          .card__container {
+            grid-template-columns: repeat(2, 1fr);
+          }
+        }
+        
+        @media screen and (min-width: 1120px) {
+
+        
+          .card__container {
+            grid-template-columns: repeat(4, 1fr);
           }
         }
     </style>
@@ -469,22 +423,22 @@ rudgie's territory
                 </ul>
             </div>
         </section>
-        <section id ="Transportation">
+        <section id ="transportation">
             <h2><i class ="fa-solid fa-bus"></i>Transportation</h2>
             <div class="transport-gallery">
                 <div class="transport-item">    
-                    <img src ="src/ebikee.jpg" alt="E-bike">
+                    <img src ="tricycle.png" alt="Tricycle">
                     <h4>E-Bike</h4>
                     <p>Eco-friendly and quiet, e-bikes are common way to explore Boracay's narrow roads.</p>
                 </div>
 
                <div class="transport-item">
-                <img src="src/trii.jpg" alt="Tricycle">
-                <h4> Tricycle</h4>
+                <img src="boat.png" alt="Faluwa">
+                <h4>Faluwa</h4>
                 <p>The most popular mode of transportation on the island, perfect for short rides between beaches.</p>
                </div>
             </div>
-            <ul>
+            <ul class="transport__details">
                 <li><b>By Air:</b> Fly from Manila or Cebu to either Caticlan or Kalibo Airport.</li>
                 <li><b>From Caticlan:</b> Take a short tricycle ride to the jetty port, then ride a boat to Boracay.</li>
                 <li><b>Local Transport:</b> On the island, you can get around by tricycle, e-bike or by walking along the beach path.</li>
@@ -492,12 +446,11 @@ rudgie's territory
         </section>
         <section id ="tourism">
             <h2><i class ="fa-solid fa-bus"></i>Tourism and Development</h2>
+            <p>Boracay was temporarily closed for rehabilitation in 2018 because of the environmental issues such as pollution and overcrowding. After a six-month closure, the island reopened with stricter environmental regulations, including:</p>
             <ul>
-                <p>Boracay was temporarily closed for rehabilitation in 2018 because of the environmental issues such as pollution and overcrowding. After a six-month closure, the island reopened with stricter environmental regulations, including:</p>
                 <li>Limiting the number of tourists allowed on the island.</li>
                 <li>Implementing a strict no-smoking policy on the beach.</li>
                 <li>Rehabilitating the beach and surrounding areas to restore their natural beauty.</li>
-            
             </ul>
         </section>
            <section id ="culture">
@@ -516,109 +469,134 @@ rudgie's territory
                 <li>June to October is rainy season, with occasional typhoons.</li>
             </ul>
            </section>
-           
-            <h2><i class ="fa-solid fa-utensils"></i>Food</h2>
-            <h3>Popular Filipino Dishes</h3>
 
-            <div class="container">
-             <div class=card_container">
-                <article class="card__article">
-                   <img src="src/adobo1.jpg" alt="adobo" class="card__img">
-    
+           <section id="food">
+             <h2><i class="fa-solid fa-utensils"></i> Traditional Filipino Dishes</h2>
+             <h3>Popular Filipino Dishes</h3>
+               <div class="container">
+                 <div class="card__container">
+                   <article class="card__article">
+                     <img src="payi.jpg" alt="adobo" class="card__img">
+                     <div class="card__data">
+                       <span class="card__description">Chicken or pork braised in soy sauce, vinegar, and garlic — the classic Filipino favorite.</span>
+                       <h2 class="card__title">Adobo</h2>
+                     </div>
+                   </article>
+           
+                   <article class="card__article">
+                     <img src="sinigang.jpg" alt="sinigang" class="card__img">
+                     <div class="card__data">
+                       <span class="card__description">A tangy tamarind soup with vegetables and your choice of meat or shrimp.</span>
+                       <h2 class="card__title">Sinigang</h2>
+                     </div>
+                   </article>
+           
+                   <article class="card__article">
+                     <img src="lechon.jpg" alt="lechon" class="card__img">
+                     <div class="card__data">
+                       <span class="card__description">Roast pig, known for its crispy skin and tender meat, often served at celebrations.</span>
+                       <h2 class="card__title">Lechon</h2>
+                     </div>
+                   </article>
+           
+                   <article class="card__article">
+                     <img src="halo-halo.jpg" alt="halo-halo" class="card__img">
+                     <div class="card__data">
+                       <span class="card__description">A refreshing dessert made with crushed ice, sweet beans, fruits, and topped with leche flan or ube.</span>
+                       <h2 class="card__title">Halo-Halo</h2>
+                     </div>
+                   </article>
+                 </div>
+               </div>
+           </section>
+
+           <section id="activities">
+             <h2><i class="fa-solid fa-umbrella-beach"></i> Things To Do</h2>
+             <h3>Top Activities in Boracay</h3>
+           
+             <div class="container">
+               <div class="card__container">
+           
+                 <article class="card__article">
+                   <img src="payi.jpg" alt="Beach Walk" class="card__img">
                    <div class="card__data">
-                      <span class="card__description">Chicken or pork braised in soy sauce, vinegar, and garlic — the classic Filipino favorite.</span>
-                      <h2 class="card__title">Adobo</h2>
+                     <span class="card__description">Take a relaxing walk on the soft sand while enjoying ocean views and local shops.</span>
+                     <h2 class="card__title">Walk Along the Beach</h2>
                    </div>
-                </article>
-    
-                <article class="card__article">
-                   <img src="src/sinigang.jpg" alt="sinigang" class="card__img">
-    
+                 </article>
+           
+                 <article class="card__article">
+                   <img src="src/sunset.jpg" alt="Sunset" class="card__img">
                    <div class="card__data">
-                      <span class="card__description">A tangy tamarind soup with vegetables and your choice of meat or shrimp.</span>
-                      <h2 class="card__title">Sinigang</h2>
+                     <span class="card__description">Experience the breathtaking colors as the sun sets over the horizon.</span>
+                     <h2 class="card__title">Watch the Sunset</h2>
                    </div>
-                </article>
-    
-                <article class="card__article">
-                   <img src="src/lechon1.jpg" alt="lechon" class="card__img">
-    
+                 </article>
+           
+                 <article class="card__article">
+                   <img src="src/diveb.jpg" alt="Water Activities" class="card__img">
                    <div class="card__data">
-                      <span class="card__description">Roast pig, known for its crispy skin and tender meat, often served at celebrations.</span>
-                      <h2 class="card__title">Lechon</h2>
+                     <span class="card__description">Enjoy a variety of water sports, including snorkeling, scuba diving, and paddleboarding.</span>
+                     <h2 class="card__title">Water Activities</h2>
                    </div>
-                </article>
-    
-                <article class="card__article">
-                   <img src="src/halo.jpg" alt="halo-halo" class="card__img">
-    
+                 </article>
+           
+                 <article class="card__article">
+                   <img src="src/gett.jpg" alt="Nightlife" class="card__img">
                    <div class="card__data">
-                      <span class="card__description">A refreshing dessert made with crushed ice, sweet beans, fruits, and topped with leche flan or ube.</span>
-                      <h2 class="card__title">Halo-Halo</h2>
+                     <span class="card__description">Dance, dine, and relax in beachside bars and restaurants after sunset.</span>
+                     <h2 class="card__title">Enjoy Nightlife</h2>
                    </div>
-                </article>
-              </div>
+                 </article>
+           
+               </div>
              </div>
+           </section>
+
+           <section id="stay">
+             <h2><i class="fa-solid fa-hotel"></i> Where to Stay</h2>
+             <h3>Recommended Hotels in Boracay</h3>
+             
+             <div class="container">
+               <div class="card__container">
+                 <article class="card__article">
+                   <img src="src/ferra.jpg" alt="Ferra Hotel and Garden Suites" class="card__img">
+                   <div class="card__data">
+                     <span class="card__description">Mid-level hotel with a rooftop pool — rooms around 80 dollars per night.</span>
+                     <h2 class="card__title">Ferra Hotel and Garden Suites</h2>
+                     <a class="hotel-link" href="https://www.booking.com/hotel/ph/ferra-and-garden-suites.html" target="_blank">Book here</a>
+                   </div>
+                 </article>
            
-        <section id ="activities">
-            <h2><i class ="fa-solid fa-umbrella-beach"></i>Things To Do</h2>
-        <h3>Top Activities in Boracay</h3>
-        <div class ="food-gallery">
-            <div class ="food-item">
-                <img src ="src/boracay1.jpg" alt ="Beach Walk">
-                <h4>Walk Along the Beach</h4>
-                <p>Take a relaxing walk on the soft sand while enjoying ocean views and local shops.</p>
-            </div>
-        <div class ="food-item">
-            <img src ="src/sunset.jpg" alt ="Sunset">
-                <h4>Watch the Sunset</h4>
-                <p>Experience the breathtaking colors as the sun sets over the horizon.</p>
-        </div>
-        <div class ="food-item">
-            <img src ="src/diveb.jpg" alt ="Water Activities">
-            <h4>Water Activities</h4>
-            <p>Enjoy a variety of water sports, including snorkeling, scuba diving, and paddleboarding.</p>
-        </div>
-        <div class="food-item">
-            <img src="src/gett.jpg" alt="Nightlife">
-            <h4>Enjoy night life</h4>
-            <p>Dance, dine and relax in the beachside bars and restaurants after the sunset.</p>
-        </div>
-        </div>
-        </section>
-
-        <section id ="stay">
-            <h2><i class ="fa-solid fa-hotel"></i>Where to Stay</h2>
-            <p>Here are some recommended hotels in Boracay:</p>
-
-            <div class ="food-gallery">
-                <div class ="food-item">
-                    <img src ="src/ferra.jpg" alt ="Ferra Hotel and Garden Suites">
-                    <h4>Ferra Hotel and Garden Suites</h4>
-                    <a class="hotel-link" href="https://www.booking.com/hotel/ph/ferra-and-garden-suites.html" target="_blank">Book here </a>
-                    <p>Mid-level hotel with a rooftop pool- rooms around 80 dollars per night.</p>
-                </div>
-                <div class ="food-item">
-                    <img src ="src/coast.jpg" alt="Coast Hotel">
-                    <h4>Coast</h4>
-                    <a class="hotel-link" href="https://www.booking.com/hotel/ph/coast.html" target="_blank">Book here </a>
-                    <p>Pet- friendly hotel located on Station 2, beachside with rooms around 140 dollars per night.</p>
-
-                </div>
-            <div class ="food-item">
-                <img src ="src/surside.jpg" alt ="Surside Boracay Resort">
-                <h4>Surfside Boracay Resort</h4>
-                <a class="hotel-link" href="https://www.booking.com/hotel/ph/surfside-boracay-resort-and-spa.html" target="_blank">Book here </a>
-                <p>Budget-friendly with spa services and peaceful location, 65 dollars per night.</p>
-                </div>
-            <div class ="food-item">
-                <img src="src/shari.jpg" alt="Shangri-La Boracay">
-                 <h4>Shangri-La Boracay</h4>
-                 <a class="hotel-link" href="https://www.booking.com/hotel/ph/shangri-la-s-boracay-resort-and-spa.html" target="_blank">Book here </a>
-                <p>Luxury resort offering a private beachfront experience, rooms start at 450 dollars per night.</p>
-                </div>
-                </div>
-        </section>
+                 <article class="card__article">
+                   <img src="src/coast.jpg" alt="Coast Hotel" class="card__img">
+                   <div class="card__data">
+                     <span class="card__description">Pet-friendly hotel located on Station 2, beachside with rooms around 140 dollars per night.</span>
+                     <h2 class="card__title">Coast Hotel</h2>
+                     <a class="hotel-link" href="https://www.booking.com/hotel/ph/coast.html" target="_blank">Book here</a>
+                   </div>
+                 </article>
+           
+                 <article class="card__article">
+                   <img src="src/surside.jpg" alt="Surfside Boracay Resort" class="card__img">
+                   <div class="card__data">
+                     <span class="card__description">Budget-friendly with spa services and a peaceful location, 65 dollars per night.</span>
+                     <h2 class="card__title">Surfside Boracay Resort</h2>
+                     <a class="hotel-link" href="https://www.booking.com/hotel/ph/surfside-boracay-resort-and-spa.html" target="_blank">Book here</a>
+                   </div>
+                 </article>
+           
+                 <article class="card__article">
+                   <img src="src/shari.jpg" alt="Shangri-La Boracay" class="card__img">
+                   <div class="card__data">
+                     <span class="card__description">Luxury resort offering a private beachfront experience, rooms start at 450 dollars per night.</span>
+                     <h2 class="card__title">Shangri-La Boracay</h2>
+                     <a class="hotel-link" href="https://www.booking.com/hotel/ph/shangri-la-s-boracay-resort-and-spa.html" target="_blank">Book here</a>
+                   </div>
+                 </article>
+               </div>
+             </div>
+           </section>
 
     </main>
     <footer>
