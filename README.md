@@ -81,7 +81,7 @@ https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/bf/b4/3c/photo0jpg.jp
 
 https://www.agoda.com/city/banaue-ph.html?cid=1844104&ds=E01oRIuxDBRbHfhi
 
-caminero-mayon
+CAMINERO MAYON
 info,pic from :https://www.britannica.com/place/Mayon-Volcano
 https://guidetothephilippines.ph/articles/ultimate-guides/mayon-volcano-guide-albay-bicol
 
@@ -112,7 +112,8 @@ https://albay.gov.ph/wp-content/uploads/2020/02/sili-ice.png
 
 https://albay.gov.ph/wp-content/uploads/2020/02/bicol-express-1024x538.png
 
-Caminero- Puerto
+
+CAMINERO PUERTO
 https://i.pinimg.com/1200x/fc/27/f9/fc27f964543009294c3441f9ef6f13bd.jpg
 
 infor: https://guidetothephilippines.ph/articles/ultimate-guides/puerto-princesa-underground-river-palawan-guide
