@@ -72,6 +72,8 @@ https://bernardoshotel.com/
 Villa de Babat
 https://www.villadebabatbatanes.com/
 
+
+
 MANILA
 
 PIC MANILA-
@@ -119,6 +121,98 @@ https://www.hilton.com/en/hotels/mnlphhi-hilton-manila/
 BELMONT-
 https://www.belmonthotelmanila.com/
 
+
+
+LA UNION
+
+BUS
+https://12go.asia/en/operator/la-union
+
+TRICYCLE
+https://www.thepoortraveler.net/tangadan-falls-la-union/
+
+El Union Coffee
+https://www.tripadvisor.com.ph/Restaurant_Review-g656268-d11045138-Reviews-El_Union_Coffee-San_Juan_La_Union_Province_Ilocos_Region_Luzon.html
+
+HALO HALO DE ILOKO
+https://www.pna.gov.ph/articles/1122217
+
+Ilocano Bagnet
+https://www.thepeachkitchen.com/2016/05/ilocos-bagnet/
+
+Fresh Grape Products
+https://www.traveltripsters.com/2020/01/grapes-launion.html
+
+Surfing in San Juan
+https://legendarysurfcamps.com/destinations/surfing-in-la-union/
+
+Visit Tangadan Falls
+https://thequeensescape.com/la-unions-tangadan-falls-diy-travel-guide-2023/
+
+Grape Picking in Bauang
+https://thepinaysolobackpacker.com/la-union-grape-farm/amp/
+
+Watch the Sunset
+https://guidetothephilippines.ph/trips-and-experiences/tours-by-destination/la-union-top-attractions-surf-beach-day-tour
+
+ACQUATRO SUITES
+https://www.agoda.com/acquatro-suites-h63627031/hotel/la-union-ph.html?ds=l95lOQRN4AS31P5V"
+
+Aureo Resort La Union
+https://www.aureohotels.com/
+
+Awesome Hotel – San Juan
+https://awesomehotel.com/
+
+Flotsam and Jetsam Hostel
+https://www.flotsamandjetsamhostel.com/
+
+
+
+TAGAYTAY
+
+SOURCE PICS
+https://guidetothephilippines.ph/articles/ultimate-guides/tagaytay-travel-guide
+
+TAAL VIEW
+https://edition.cnn.com/travel/article/tagaytay-taal-volcano-philippines
+
+SKYRANCH
+https://www.thephilippines.com/2014/02/5-reasons-why-you-should-visit-sky-ranch-tagaytay-sky-fun-amusement-park.html#google_vignette
+
+PICNIC GROVE
+https://travelsetu.com/guide/picnic-grove-tourism/how-to-reach-picnic-grove
+
+MUSEO ORLINA
+https://travelsetu.com/guide/museo-orlina-tourism
+
+
+JEEPNEY PIC
+https://www.tripadvisor.com/AttractionProductReview-g298573-d11479165-Full_Day_Tagaytay_City_Tour_from_Manila-Manila_Metro_Manila_Luzon.html
+
+E-TRIKE
+https://alyssablogs.home.blog/2019/01/20/tagaytay-city-philippines/
+
+BULALO PIC
+https://www.tripadvisor.fr/LocationPhotoDirectLink-g317121-d2238160-i369943386-Pamana_Restaurant-Tagaytay_Cavite_Province_Calabarzon_Region_Luzon.html
+
+COCONUT CREAM PIE
+https://www.yummy.ph/news-trends/puzzles-mansion-tagaytay-coconut-cream-pie-a00260-20191111
+
+CRISPY TAWILIS
+https://curleemomma.wordpress.com/2016/06/03/plug-play-crispy-tawilis/
+
+Quest Hotel Tagaytay
+https://www.questhotelsandresorts.com/tagaytay
+
+Escala Tagaytay
+https://www.escalatagaytay.com
+
+Monticello Hotel
+https://www.booking.com/hotel/ph/monticello.html
+
+Tagaytay Country Hotel
+https://www.booking.com/hotel/ph/tagaytay-country.en-gb.html
 
 end of rudgie mollejon
 -----------------------------------------------------------------------------------------------------------
