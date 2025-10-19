@@ -23,6 +23,18 @@ trii-https://media.istockphoto.com/id/1287066732/photo/tricycle-is-a-popular-tra
 VILLASURDA, EPHRAIM
 
 Siargao
+main pic - https://www.vacationhive.com/images/hives/8/8-siargao-island-banner-2022.jpg
+habal - https://wherewouldyougo.com/wp-content/uploads/2015/12/Habal-Habal-Unique-Transport.jpg
+tricycle - https://i.pinimg.com/originals/75/74/d2/7574d2f6a394981c1b381c3b60ed2aed.jpg
+kinilaw - https://1.bp.blogspot.com/-hpxDe783pxQ/XlvU80ukUEI/AAAAAAAAUOg/JGNN0w83tIA9MibpD8CWADc_wTX9bBPxACLcBGAsYHQ/s1600/Kinilaw.jpg
+pan de surf - https://farm5.staticflickr.com/4580/37634259385_fd140b7ce4.jpg
+adobo - https://1.bp.blogspot.com/-AI-AjbFXNkc/XqRRIsb9ypI/AAAAAAAAUsk/rHDwv9si3tIQPJcDmxmL7VY4kq-HxuTewCLcBGAsYHQ/s1600/chicken%2Badobo%2Bgata.jpg
+seafood - https://dytravel.com.au/wp-content/uploads/2020/11/Siragao-Seafood-1-1024x683.jpg
+surfing - https://mindanews.com/wp-content/uploads/2014/06/12cloud9_3web.jpg
+island hopping - https://global-uploads.webflow.com/576fd5a8f192527e50a4b95c/5e4a811eae7502ebb9f1caeb_siargao%20island%20hopping.jpg
+sugba lagoon - https://1.bp.blogspot.com/-mbHi5gM5Wi8/W1LcEFrnpAI/AAAAAAAABRs/z_5bxtDKL0M5HcNrjG8nzgUYjDVKmuqPwCLcBGAs/s1600/Sugba%2BLagoon.jpg
+pools - https://i.pinimg.com/originals/f6/46/0f/f6460fb30b10e06d1a917af08244f4e5.jpg
+
 
 Camiguin Island
 Island Pic - https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Timpoong_and_Hibok-Hibok_Natural_Monument_in_Camiguin_-_Allan_Jay_Quesada.jpg/1920px-Timpoong_and_Hibok-Hibok_Natural_Monument_in_Camiguin_-_Allan_Jay_Quesada.jpg
