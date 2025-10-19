@@ -72,6 +72,54 @@ https://bernardoshotel.com/
 Villa de Babat
 https://www.villadebabatbatanes.com/
 
+MANILA
+
+PIC MANILA-
+https://guidetothephilippines.ph/articles/ultimate-guides/manila-travel-guide
+
+JEEPNEY-
+https://www.viator.com/tours/Manila/Private-Half-Day-Shore-Manila-City-Tour-by-Jeepney/d4674-24232P54
+
+MRT 
+https://www.railwaypro.com/wp/manila-celebrates-the-completion-of-mrt-3-rehabilitation/
+
+FILIPINO STREET FOOD-
+https://www.abrahamtours.com/philippines/street-food-in-manila/
+
+SISIG
+https://www.spot.ph/eatdrink/the-latest-eat-drink/82344/sisig-delivery-manila-a3284-20200531-lfrm
+
+Kare-Kare
+https://booky.ph/blog/kare-kare-dishes-manila-restaurants/
+
+HALO-HALO
+https://www.spot.ph/eatdrink/the-latest-eat-drink/71787/top-10-halo-halo-in-manila-2017-edition-a504-20171018-lfrm3
+
+INTRAMUROS-
+https://www.tripadvisor.com/Attraction_Review-g298573-d548076-Reviews-Intramuros-Manila_Metro_Manila_Luzon.html
+
+RIZAL PARK-
+https://www.expedia.com.ph/Rizal-Park-Ermita.d508148.Place-To-Visit?gallery-dialog=gallery-open
+
+BINONDO MANILA-
+https://www.tripadvisor.com.ph/Attraction_Review-g298573-d554231-Reviews-Chinatown-Manila_Metro_Manila_Luzon.html
+
+MANILA BAY-
+https://shoestringdiary.wordpress.com/2017/04/17/chasing-manila-bays-sunset/
+
+OKADA-
+https://okadamanila.com/
+
+SHERATON-
+https://www.marriott.com/en-us/hotels/mnlsi-sheraton-manila-hotel-at-newport-world-resorts/overview/
+
+HILTON-
+https://www.hilton.com/en/hotels/mnlphhi-hilton-manila/
+
+BELMONT-
+https://www.belmonthotelmanila.com/
+
+
 end of rudgie mollejon
 -----------------------------------------------------------------------------------------------------------
 
