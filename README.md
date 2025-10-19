@@ -34,6 +34,10 @@ surfing - https://mindanews.com/wp-content/uploads/2014/06/12cloud9_3web.jpg
 island hopping - https://global-uploads.webflow.com/576fd5a8f192527e50a4b95c/5e4a811eae7502ebb9f1caeb_siargao%20island%20hopping.jpg
 sugba lagoon - https://1.bp.blogspot.com/-mbHi5gM5Wi8/W1LcEFrnpAI/AAAAAAAABRs/z_5bxtDKL0M5HcNrjG8nzgUYjDVKmuqPwCLcBGAs/s1600/Sugba%2BLagoon.jpg
 pools - https://i.pinimg.com/originals/f6/46/0f/f6460fb30b10e06d1a917af08244f4e5.jpg
+h1 - https://www.booking.com/hotel/ph/isla-cabana-resort.html
+h2 - https://www.booking.com/hotel/ph/villa-cali-siargao.html?utm_source=chatgpt.com
+h3 - https://www.booking.com/hotel/ph/bulan-villas-siargao.html?utm_source=chatgpt.com
+h4 - https://www.booking.com/hotel/ph/siargao-island-villas.html
 
 
 Camiguin Island
