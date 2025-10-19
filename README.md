@@ -20,6 +20,61 @@ sinigang-https://cf.bstatic.com/xdata/images/hotel/max1024x768/295687341.jpg?k=0
 surside-https://cf.bstatic.com/xdata/images/hotel/max1024x768/122324018.jpg?k=17596ff45c0b6d201a195ed2b2a9bd5913eee521ef939ca917eda7e2d60dc028&o=
 trii-https://media.istockphoto.com/id/1287066732/photo/tricycle-is-a-popular-transport-in-philippines.jpg?s=612x612&w=0&k=20&c=XIyCLqh5gpWSyDmtxyRau58hlWlXnnCaR9OLuvrjWgA= 
 
+-----------------------------------------------------------------------------------------------------------
+RUDGIE MOLLEJON
+
+BATANES
+
+SOURCE PICS
+https://guidetothephilippines.ph/articles/ultimate-guides/batanes-travel-guide
+
+TRICYCLE
+https://alexeiontheroad.com/2024/04/30/the-beautiful-dead-end-of-the-philippines-the-batanes-islands/ 
+
+FALUWA
+DESCRIPTION - https://guidetothephilippines.ph/articles/ultimate-guides/batanes-travel-guide
+PIC - 
+https://alexeiontheroad.com/2024/04/30/the-beautiful-dead-end-of-the-philippines-the-batanes-islands/
+
+LUNIS-
+https://www.angsarap.net/2022/11/17/lunis/
+
+VUNES-
+https://www.youtube.com/watch?v=3XdX-YcgJ78
+
+PAYI
+https://www.thepinoytraveler.com/2015/03/where-to-eat-in-batanes.html
+
+UVUD
+https://www.7stonesboracay.com/philippines-the-unique-philippine-cuisine-tour/
+
+Marlboro Hills Batanes
+https://www.tripadvisor.com.ph/Attraction_Review-g1202573-d1932045-Reviews-Marlboro_Hills-Mahatao_Province_of_Batanes_Cagayan_Valley_Region_Luzon.html
+
+Honesty Coffee Shop
+https://www.tripadvisor.com.ph/Restaurant_Review-g1202581-d1929466-Reviews-Honesty_Coffee_Shop-Ivana_Province_of_Batanes_Cagayan_Valley_Region_Luzon.html
+
+Chamantad-Tinyan Viewpoint
+https://www.tripadvisor.com.ph/Attraction_Review-g1202576-d7365338-Reviews-Chamantad_Tinyan_Viewpoint-Sabtang_Island_Province_of_Batanes_Cagayan_Valley_Reg.html
+
+Savidug Stone Houses
+https://www.tripadvisor.com.ph/Attraction_Review-g1202576-d13921462-Reviews-Savidug_Stone_Houses-Sabtang_Island_Province_of_Batanes_Cagayan_Valley_Region_L.html
+
+Amboy's Hometel
+https://www.agoda.com/batanes-amboy-hometel/hotel/basco-ph.html
+
+Nathaniel's Lodge
+https://www.agoda.com/nathaniel-s-lodge/hotel/basco-ph.html
+
+Bernardo’s Hotel
+https://bernardoshotel.com/
+
+Villa de Babat
+https://www.villadebabatbatanes.com/
+
+end of rudgie mollejon
+-----------------------------------------------------------------------------------------------------------
+
 VILLASURDA, EPHRAIM
 
 Siargao
