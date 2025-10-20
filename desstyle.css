@@ -9,6 +9,10 @@
             color: black;
             
         }
+        html,body{
+            max-width: 100%;
+            overflow-x:hidden;
+        }
     
         header{
             width:100%;
@@ -41,9 +45,10 @@
             font-size:1.8rem;
         }
         section{
+           
             scroll-margin-top:100px;
             width:85%;
-            margin: 3rem auto;
+            margin: 1rem auto;
             background:none;
             padding:2rem 0;
             border-bottom: 1px solid #ddd;
@@ -123,6 +128,9 @@
             text-decoration:underline;
         }
         @media(max-width:768px){
+            .nav-list   {
+                width: 85vw;
+            }
             section{
                 width:90%;
                 padding:1.5rem;
@@ -190,8 +198,12 @@
             transition: transform 0.3s ease;
             overflow-y:auto;
             z-index:999;
+            display:flex;
+         
+
 
         }
+        
         #menu-toggle:checked ~ .nav-list{
             transform:translateX(0);
         }
@@ -202,6 +214,10 @@
         }
         .nav-list ul li{
             margin-bottom:15px;
+            padding:2px;
+            margin:0;
+            width:100%;
+            text-align:left;
         }
         .nav-list ul li a{
             text-decoration:none;
