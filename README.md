@@ -1,5 +1,21 @@
 # MIDTERM-PROJECT-Philippine-famous-tourist-spots-
+Project Members
+Binggan,Jarel
+Caminero,Zhekainah
+Mollejon,Rudgie
+Romano,Benz
+Villasurda,Ephraim
+
+
 A responsive website that explores Philippine's famoust destinations.
+MAIN PAGE- JAREL, based on a website about top philippine destinations
+Caminero-Bananue,Mayon,Puerto,Boarcay
+Mollejon -Manila,Tagaytay,Batanes,La Union
+Ephraim-Vigan,Camiguin,Donsol,Siargao
+Romano-El Nido,Cebu City,Bohol,Camiguin
+
+
+
 
 
 CAMINERO - BORACAY 
@@ -237,6 +253,13 @@ h3 - https://www.booking.com/hotel/ph/bulan-villas-siargao.html?utm_source=chatg
 h4 - https://www.booking.com/hotel/ph/siargao-island-villas.html
 
 
+JAREL
+https://backpackingwithabook.com/wp-content/uploads/2022/02/guyam-island-siargao-travel-guide-1-1.png
+https://th.bing.com/th/id/OIP.1pLNrrN5gifV8pBQDNgzSAHaE7?o=7&cb=12rm=3&rs=1&pid=ImgDetMain&o=7&rm=3
+https://www.bing.com/aclick?ld=e8e8tfFxJcMcN36R5Q-L6TZTVUCUwYbF7y32WU-VW1aQHckNkMolps563a7-J5hMKedHmDU4GaH9_1j28Vg-PLvE5xMSrgQq49tyE4liro7TpLiWYs9a7OQ5cJwr_dijspjYTSq_iZCJOFcBLdKvQdx5Sdk9thTK8MeMgx4xl6bBsmZ6FppYMvfbAf5yVf6MarEBXK7g&u=aHR0cHMlM2ElMmYlMmZ3d3cuZ2V0eW91cmd1aWRlLmNvbSUyZi1sMTAwMCUyZiUzZmNtcCUzZGJpbmclMjZjbXAlM2RiaW5nJTI2YWRfaWQlM2Q3ODM0MDQyMzAzMjE5MCUyNmFkZ3JvdXBfaWQlM2QxMjUzNDQ0NjEzODk0NTg2JTI2YmlkX21hdGNoX3R5cGUlM2RiZSUyNmNhbXBhaWduX2lkJTNkNzEwODE4NTA4JTI2ZGV2aWNlJTNkYyUyNmZlZWRfaXRlbV9pZCUzZCUyNmtleXdvcmQlM2RwdWVydG8lMjUyMHByaW5jZXNhJTI2bG9jX2ludGVyZXN0X21zJTNkMTQ5JTI2bG9jX3BoeXNpY2FsX21zJTNkMTQ1NjI5JTI2bWF0Y2hfdHlwZSUzZGUlMjZtc2Nsa2lkJTNkMGUxYmU3NTdjNzRkMTU3ZTg2Y2U4ZmEwZjMyZWFlNjIlMjZuZXR3b3JrJTNkbyUyNnBhcnRuZXJfaWQlM2RDRDk1MSUyNnRhcmdldF9pZCUzZGt3ZC03ODM0MDY3NjM2MTMwOSUyNnV0bV9hZGdyb3VwJTNkbGMlMjUzRDEwMDAlMjUzQXB1ZXJ0byUyNTIwcHJpbmNlc2ElMjU3Q2ZuJTI1M0RmMyUyNTdDY2klMjUzRDkzNyUyNTNBdGhpbmdzJTI1MjB0byUyNTIwZG8lMjZ1dG1fY2FtcGFpZ24lM2RkYyUyNTNENjUlMjUzQXBoJTI1N0NsYyUyNTNEMTAwMCUyNTNBcHVlcnRvJTI1MjBwcmluY2VzYSUyNTdDY3QlMjUzRGNvcmUlMjU3Q2xuJTI1M0QyOSUyNTNBZW4lMjU3Q3RjJTI1M0RhbGwlMjZ1dG1fa2V5d29yZCUzZHB1ZXJ0byUyNTIwcHJpbmNlc2ElMjZ1dG1fbWVkaXVtJTNkcGFpZF9zZWFyY2glMjZ1dG1fcXVlcnklM2RwdWVydG8lMjUyMHByaW5jZXNhJTI2dXRtX3NvdXJjZSUzZGJpbmc&rlid=0e1be757c74d157e86ce8fa0f32eae62&ntb=1
+https://tse2.mm.bing.net/th/id/OIP.uE6urQPQL1piR_tQRuiBZgHaFp?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3
+https://th.bing.com/th?q=Mahinog+Camiguin+Philippines&w=120&h=120&c=1&rs=1&qlt=70&o=7&cb=1&dpr=1.1&pid=InlineBlock&rm=3&mkt=en-PH&cc=PH&setlang=en&adlt=strict&t=1&mw=247
+
 Camiguin Island
 Island Pic - https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Timpoong_and_Hibok-Hibok_Natural_Monument_in_Camiguin_-_Allan_Jay_Quesada.jpg/1920px-Timpoong_and_Hibok-Hibok_Natural_Monument_in_Camiguin_-_Allan_Jay_Quesada.jpg
 HabalHabal - https://c2.staticflickr.com/4/3681/9464885129_e80b7c442f_b.jpg
@@ -372,3 +395,6 @@ https://www.tripadvisor.com.ph/Hotel_Review-g294257-d2412792-Reviews-Cafe_Sabang
 
 https://www.tripadvisor.com.ph/Hotel_Review-g2720799-d12821956-Reviews-Hill_Myna_Beach_Cottages-Sabang_Puerto_Princesa_Palawan_Island_Palawan_Province_Mima.html
 https://www.tripadvisor.com.ph/Hotel_Review-g2720799-d1055552-Reviews-Daluyon_Beach_And_Mountain_Resort-Sabang_Puerto_Princesa_Palawan_Island_Palawan_Provi.html
+
+
+
