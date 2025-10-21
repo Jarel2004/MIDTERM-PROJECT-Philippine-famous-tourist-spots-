@@ -440,4 +440,17 @@ https://www.crimsonhotel.com/cebu/
 https://www.agoda.com/waterfront-cebu-city-hotel-and-casino/hotel/cebu-ph.html?countryId=70&finalPriceView=1&isShowMobileAppPrice=false&cid=1914940&numberOfBedrooms=&familyMode=false&adults=1&children=0&rooms=1&maxRooms=0&checkIn=2025-10-25&isCalendarCallout=false&childAges=&numberOfGuest=0&missingChildAges=false&travellerType=-1&showReviewSubmissionEntry=false&currencyCode=PHP&isFreeOccSearch=false&tag=1f55a03e-064e-42ce-83ad-d0337e3d0b78&tspTypes=16&los=1&searchrequestid=e9107623-7c5a-42c8-962d-fffe9ec3d882
 https://www.questhotelsandresorts.com/hotels/quest-cebu/
 
+<EL NIDO>
+
+EL NIDO - https://ph.pinterest.com/pin/175640454196859642/
+Transportation
+https://ph.pinterest.com/pin/674343744243359326/
+https://ph.pinterest.com/pin/89157267629775732/
+FOOD
+https://ph.pinterest.com/pin/281543717085204/
+https://ph.pinterest.com/pin/289215607338199638/
+https://ph.pinterest.com/pin/4503668373612743/
+https://ph.pinterest.com/pin/419327415281038284/
+Things to do
+
 
