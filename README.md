@@ -1,22 +1,58 @@
 # MIDTERM-PROJECT-Philippine-famous-tourist-spots-
 Project Members
+
 Binggan,Jarel
 Caminero,Zhekainah
 Mollejon,Rudgie
 Romano,Benz
 Villasurda,Ephraim
 
-
+PROJECT DESCRIPTION
 A responsive website that explores Philippine's famoust destinations.
+A responsive website that showcases the most famous tourist destinations in the Philippines. Each page highlights the beauty, culture, and attractions of specific locations, helping users explore the country’s natural wonders and historical spots.
+
+
 MAIN PAGE- JAREL, based on a website about top philippine destinations
+
 Caminero-Bananue,Mayon,Puerto,Boarcay
 Mollejon -Manila,Tagaytay,Batanes,La Union
 Ephraim-Vigan,Camiguin,Donsol,Siargao
 Romano-El Nido,Cebu City,Bohol,Camiguin
 
+Technology Used
+HMTL AND CSS
+
+Enhance :
+Dark mode, add ratings
+
+
+Caminero
+Banaue Rice Terraces: Ancient hand-carved terraces in Ifugao that showcase the creativity and hard work of early Filipinos.
+Mayon Volcano: A stunning volcano in Albay known for its perfect cone shape and scenic beauty.
+Puerto Princesa Underground River: A world-famous natural wonder in Palawan featuring a river flowing beneath limestone caves.
+Boracay Island: A tropical island in Aklan known worldwide for its fine white sand and exciting beach life.
+
+ Mollejon
+Manila: The vibrant capital city of the Philippines filled with history, culture, and modern attractions.
+Tagaytay: A cool and relaxing city famous for its view of Taal Volcano and delicious local food.
+Batanes: The country’s northernmost islands known for their rolling hills, stone houses, and peaceful atmosphere.
+La Union: A coastal province known as a top surfing destination and a place for beach lovers.
+
+Ephraim
+Vigan: A UNESCO World Heritage city famous for its preserved Spanish-era streets and cobblestone roads.
+Camiguin: A small island in Mindanao known for its waterfalls, hot springs, and the famous Sunken Cemetery.
+Donsol: A peaceful town in Sorsogon known for whale shark watching adventures.
+Siargao: The surfing capital of the Philippines, known for its waves, lagoons, and island charm.
+  
+Romano
+El Nido: A paradise in Palawan known for its limestone cliffs, crystal-clear waters, and island-hopping tours.
+Cebu City: The “Queen City of the South,” rich in history, culture, and urban life.
+Bohol: Famous for the Chocolate Hills, tarsiers, and beautiful white-sand beaches.
+Camiguin: An island of natural wonders, hot springs, and volcanic landscapes perfect for adventure seekers.
 
 
 
+IMAGES SOURCES
 
 CAMINERO - BORACAY 
 adobo1- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK6PLjBWZLxlVlLck1VtdbKTxDGnJH89WOEw&s
