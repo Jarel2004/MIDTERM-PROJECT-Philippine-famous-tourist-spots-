@@ -82,7 +82,7 @@ https://www.agoda.com/batanes-amboy-hometel/hotel/basco-ph.html
 Nathaniel's Lodge
 https://www.agoda.com/nathaniel-s-lodge/hotel/basco-ph.html
 
-Bernardo’s Hotel
+Bernardoâ€™s Hotel
 https://bernardoshotel.com/
 
 Villa de Babat
@@ -177,7 +177,7 @@ https://www.agoda.com/acquatro-suites-h63627031/hotel/la-union-ph.html?ds=l95lOQ
 Aureo Resort La Union
 https://www.aureohotels.com/
 
-Awesome Hotel – San Juan
+Awesome Hotel â€“ San Juan
 https://awesomehotel.com/
 
 Flotsam and Jetsam Hostel
@@ -391,6 +391,7 @@ https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDZTrKy-6Yzu_frveYpEOXFgzB
 \where to stay
 https://www.tripadvisor.com.ph/Hotel_Review-g2720799-d27094671-Reviews-Four_Points_By_Sheraton_Palawan_Puerto_Princesa-Sabang_Puerto_Princesa_Palawan_Islan.html
 
+<<<<<<< HEAD
 https://www.tripadvisor.com.ph/Hotel_Review-g294257-d2412792-Reviews-Cafe_Sabang_Rooms_Cottages-Puerto_Princesa_Palawan_Island_Palawan_Province_Mimaropa.html
 
 https://www.tripadvisor.com.ph/Hotel_Review-g2720799-d12821956-Reviews-Hill_Myna_Beach_Cottages-Sabang_Puerto_Princesa_Palawan_Island_Palawan_Province_Mima.html
@@ -398,3 +399,6 @@ https://www.tripadvisor.com.ph/Hotel_Review-g2720799-d1055552-Reviews-Daluyon_Be
 
 
 
+=======
+https://www.tripadvisor.com.ph/Hotel_Rev
+>>>>>>> e7b8fa06e14eb04fe3585195597423031d2edef7
