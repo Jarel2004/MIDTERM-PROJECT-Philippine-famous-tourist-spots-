@@ -300,8 +300,80 @@ Each page highlights the **beauty, culture, and attractions** of specific locati
 | Hotel 4 | https://gttp.images.tshiftcdn.com/293545/x/0/10-best-hotels-in-vigan-ilocos-sur-unesco-world-heritage-city-8.jpg?auto=compress%2Cformat&ch=Width%2CDPR&dpr=1&ixlib=php-3.3.0&w=883 |
 
 ---
+==========================================
+Benz P. Romano
 
+## 🌊 ROMANO - CORON
+| Description | Image Link |
+|--------------|-------------|
+| Coron (photo) | https://ph.pinterest.com/pin/614671049124795915/ |
+| Tricycle | https://ph.pinterest.com/pin/3659243438261418/ |
+| Boat | https://ph.pinterest.com/pin/340725528077833660/ |
+| Fish (food) | https://ph.pinterest.com/pin/492649953610506/ |
+| Lato (food) | https://ph.pinterest.com/pin/392939136240659711/ |
+| Lato 2 | https://ph.pinterest.com/pin/6825836929827256/ |
+| Lato 3 | https://ph.pinterest.com/pin/496451558937917848/ |
+| Things to do 1 | https://ph.pinterest.com/pin/174092341817712417/ |
+| Things to do 2 | https://ph.pinterest.com/pin/169799848442043445/ |
+| Things to do 3 | https://ph.pinterest.com/pin/147211481568040379/ |
+| Things to do 4 | https://ph.pinterest.com/pin/408279522495064318/ |
+| Where to stay - Two Seasons | https://twoseasonsresorts.com/coron/ |
+| Where to stay - Club Paradise | https://www.clubparadisepalawan.com/ |
+| Where to stay - MO2 Lagoon | https://mo2lagooncoron.com/ |
+| Where to stay - Busuanga SeaDive Resort (Tripadvisor) | https://www.tripadvisor.com.ph/Hotel_Review-g729733-d2226321-Reviews-Busuanga_Seadive_Resort-Coron_Busuanga_Island_Palawan_Province_Mimaropa.html |
 
-*
+---
 
+## 🌴 ROMANO - BOHOL
+| Description | Image Link |
+|--------------|-------------|
+| Bohol (photo) | https://ph.pinterest.com/pin/12103492742831711/ |
+| Transportation 1 | https://ph.pinterest.com/pin/578079302204704931/ |
+| Transportation 2 | https://ph.pinterest.com/pin/153755774773662923/ |
+| Food 1 | https://ph.pinterest.com/pin/558727897496593377/ |
+| Food 2 | https://ph.pinterest.com/pin/37365871903181215/ |
+| Food 3 | https://ph.pinterest.com/pin/33847434695308455/ |
+| Food 4 | https://ph.pinterest.com/pin/1618549863970019/ |
+| Things to do 1 | https://ph.pinterest.com/pin/423479171231144785/ |
+| Things to do 2 | https://ph.pinterest.com/pin/518899188339638273/ |
+| Things to do 3 | https://ph.pinterest.com/pin/71846556548889055/ |
+| Things to do 4 | https://ph.pinterest.com/pin/520306563212476842/ |
+| Where to stay - Amorita Resort | https://www.amoritaresort.com/ |
+| Where to stay - Amorita Resort (repeat) | https://www.amoritaresort.com/ |
+| Where to stay - The Bellevue (Booking) | https://www.booking.com/hotel/ph/the-belleview-resort.en-gb.html?aid=2276374&label=msn-6hU84Rh470du5jsVbro0xQ-79920890223882%3Atikwd-79921037910827%3Aloc-149%3Aneo%3Amte%3Alp145629%3Adec%3Aqsthe%20bellevue%20resort&sid=abce24b7945c6b4033a5b037f01cac06&dest_id=-2444356&dest_type=city&dist=0&group_adults=2&group_children=0&hapos=1&hpos=1&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&srepoch=1760622005&srpvid=6a7f60188e2b04c1&type=total&ucfs=1& |
+| Where to stay - Bohol Bee Farm (Agoda) | https://www.agoda.com/bohol-bee-farm-hotel/hotel/bohol-ph.html?countryId=70&finalPriceView=1&isShowMobileAppPrice=false&cid=1914940&numberOfBedrooms=&familyMode=false&adults=1&children=0&rooms=1&maxRooms=0&checkIn=2025-10-25&isCalendarCallout=false&childAges=&numberOfGuest=0&missingChildAges=false&travellerType=-1&showReviewSubmissionEntry=false&currencyCode=PHP&isFreeOccSearch=false&tag=5a1f545a-2fa0-4181-b34e-ae56eb18e13d&los=1&searchrequestid=092ff6e0-5adf-4f64-a119-e4407f55bc41 |
+
+---
+
+## 🏙️ ROMANO - CEBU CITY
+| Description | Image Link |
+|--------------|-------------|
+| Cebu (photo) | https://ph.pinterest.com/pin/579838520820518423/ |
+| Transportation 1 | https://ph.pinterest.com/pin/121878733650706363/ |
+| Transportation 2 | https://ph.pinterest.com/pin/309833649378206524/ |
+| Food 1 | https://ph.pinterest.com/pin/47217496089462630/ |
+| Food 2 | https://ph.pinterest.com/pin/354658539379836548/ |
+| Food 3 | https://ph.pinterest.com/pin/128352658102614303/ |
+| Food 4 | https://ph.pinterest.com/pin/317574211242323451/ |
+| Things to do 1 | https://ph.pinterest.com/pin/25825397834134422/ |
+| Things to do 2 | https://ph.pinterest.com/pin/466333736435640609/ |
+| Things to do 3 | https://ph.pinterest.com/pin/892909063634342395/ |
+| Things to do 4 | https://ph.pinterest.com/pin/137852438581452819/ |
+| Where to stay - Shangri-La Mactan Resort | https://www.shangri-la.com/cebu/mactanresort/ |
+| Where to stay - Crimson Hotel | https://www.crimsonhotel.com/cebu/ |
+| Where to stay - Waterfront Cebu City Hotel & Casino (Agoda) | https://www.agoda.com/waterfront-cebu-city-hotel-and-casino/hotel/cebu-ph.html?countryId=70&finalPriceView=1&isShowMobileAppPrice=false&cid=1914940&numberOfBedrooms=&familyMode=false&adults=1&children=0&rooms=1&maxRooms=0&checkIn=2025-10-25&isCalendarCallout=false&childAges=&numberOfGuest=0&missingChildAges=false&travellerType=-1&showReviewSubmissionEntry=false&currencyCode=PHP&isFreeOccSearch=false&tag=1f55a03e-064e-42ce-83ad-d0337e3d0b78&tspTypes=16&los=1&searchrequestid=e9107623-7c5a-42c8-962d-fffe9ec3d882 |
+| Where to stay - Quest Hotels & Resorts (Quest Cebu) | https://www.questhotelsandresorts.com/hotels/quest-cebu/ |
+
+---
+
+## 🏝️ ROMANO - EL NIDO
+| Description | Image Link |
+|--------------|-------------|
+| El Nido (photo) | https://ph.pinterest.com/pin/175640454196859642/ |
+| Transportation 1 | https://ph.pinterest.com/pin/674343744243359326/ |
+| Transportation 2 | https://ph.pinterest.com/pin/89157267629775732/ |
+| Food 1 | https://ph.pinterest.com/pin/281543717085204/ |
+| Food 2 | https://ph.pinterest.com/pin/289215607338199638/ |
+| Food 3 | https://ph.pinterest.com/pin/4503668373612743/ |
+| Food 4 | https://ph.pinterest.com/pin/419327415281038284/ |
 
