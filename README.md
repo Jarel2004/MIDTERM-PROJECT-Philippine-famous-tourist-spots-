@@ -89,23 +89,23 @@ Each page highlights the **beauty, culture, and attractions** of specific locati
 | About Banaue | https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/bf/b4/3c/photo0jpg.jpg?w=1100&h=-1&s=1 |
 | About Banaue | https://www.agoda.com/city/banaue-ph.html?cid=1844104&ds=E01oRIuxDBRbHfhi |
 
-## 🌋 MAYON
-| Description | Link |
-|--------------|------|
-| Source | https://www.britannica.com/place/Mayon-Volcano |
-| Guide | https://guidetothephilippines.ph/articles/ultimate-guides/mayon-volcano-guide-albay-bicol |
-| Image Source | https://www.getyourguide.com/mayon-volcano-l130138/ |
-| Bus | https://www.instagram.com/p/DCekGjIToVf/?img_index=5 |
-|  | https://travelsetu.com/guide/museo-orlina-tourism |
-|  | https://www.tripadvisor.com.ph/Hotel_Review-g5556259-d26366749-Reviews-Hotel_Herencia_625-Daraga_Bicol_Region_Luzon.html |
-|  | https://www.tripadvisor.com.ph/Hotel_Review-g3320429-d1806263-Reviews-Costa_Palmera_Resort-Calayucay_Santo_Domingo_Albay_Province_Bicol_Region_Luzon.html#/media/1806263/?type=ALL_INCLUDING_RESTRICTED&albumtype=hsx%3A%3Aall_photos_album&albumvariant=standard&categorytype=hsx%3A%3Aall_photos_album&categoryvariant=standard |
-|  | https://www.tripadvisor.com.ph/Hotel_Review-g317122-d12492777-Reviews-Mayon_Lodging_House-Legazpi_Albay_Province_Bicol_Region_Luzon.html |
-|  | https://www.tripadvisor.com.ph/Hotel_Review-g317122-d10477508-Reviews-Emerald_Boutique_Hotel-Legazpi_Albay_Province_Bicol_Region_Luzon.html |
-|  | https://www.wikihow.com/images/2/2b/Make-Crispy-Pili-Final-Version-2.jpg |
-|  | https://upload.wikimedia.org/wikipedia/commons/8/83/Kinalas.jpg |
-|  | https://upload.wikimedia.org/wikipedia/commons/8/83/Kinalas.jpg |
-|  | https://albay.gov.ph/wp-content/uploads/2020/02/sili-ice.png |
-|  | https://albay.gov.ph/wp-content/uploads/2020/02/bicol-express-1024x538.png |
+| Description            | Link                                                                                                                                                                                     |
+| ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Britannica Info        | [View](https://www.britannica.com/place/Mayon-Volcano)                                                                                                                                   |
+| Travel Guide           | [Guide to the Philippines](https://guidetothephilippines.ph/articles/ultimate-guides/mayon-volcano-guide-albay-bicol)                                                                    |
+| Ferry Ride             | [View](https://gttp.images.tshiftcdn.com/458730/x/0/cebu-to-or-from-masbate-ferry-ride-one-way-transasia.jpg?crop=1.91%3A1&width=1200&fit=crop)                                          |
+| Bus                    | [Instagram](https://www.instagram.com/p/DCekGjIToVf/?img_index=5)                                                                                                                        |
+| Sumlang Lake Tour      | [GetYourGuide](https://www.getyourguide.com/philippines-l169047/sumlang-lake-express-tour-with-cagsawa-ruins-by-zchedulista-t637613/?ranking_uuid=ce6a4cf2-7059-4993-8c4c-7d06ccf172dc)  |
+| Full Day Tour          | [GetYourGuide](https://www.getyourguide.com/legazpi-city-l130133/albay-bicol-full-day-tour-with-mayon-skyline-by-zchedulista-t614374/?ranking_uuid=ce6a4cf2-7059-4993-8c4c-7d06ccf172dc) |
+| Hotel Herencia 625     | [Tripadvisor](https://www.tripadvisor.com.ph/Hotel_Review-g5556259-d26366749-Reviews-Hotel_Herencia_625-Daraga_Bicol_Region_Luzon.html)                                                  |
+| Costa Palmera Resort   | [Tripadvisor](https://www.tripadvisor.com.ph/Hotel_Review-g3320429-d1806263-Reviews-Costa_Palmera_Resort-Calayucay_Santo_Domingo_Albay_Province_Bicol_Region_Luzon.html)                 |
+| Mayon Lodging House    | [Tripadvisor](https://www.tripadvisor.com.ph/Hotel_Review-g317122-d12492777-Reviews-Mayon_Lodging_House-Legazpi_Albay_Province_Bicol_Region_Luzon.html)                                  |
+| Emerald Boutique Hotel | [Tripadvisor](https://www.tripadvisor.com.ph/Hotel_Review-g317122-d10477508-Reviews-Emerald_Boutique_Hotel-Legazpi_Albay_Province_Bicol_Region_Luzon.html)                               |
+| Crispy Pili            | [View](https://www.wikihow.com/images/2/2b/Make-Crispy-Pili-Final-Version-2.jpg)                                                                                                         |
+| Kinalas                | [View](https://upload.wikimedia.org/wikipedia/commons/8/83/Kinalas.jpg)                                                                                                                  |
+| Sili Ice Cream         | [View](https://albay.gov.ph/wp-content/uploads/2020/02/sili-ice.png)                                                                                                                     |
+| Bicol Express          | [View](https://albay.gov.ph/wp-content/uploads/2020/02/bicol-express-1024x538.png)                                                                                                       |
+
 
 ## 🏞️ RUDGIE MOLLEJON - BATANES
 
