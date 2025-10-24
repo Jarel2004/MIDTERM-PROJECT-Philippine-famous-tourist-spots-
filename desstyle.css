@@ -128,7 +128,7 @@ header h1:hover{
     padding: 10px 20px;
     text-decoration: none;
     color: var(--main-color);
-    font-size: 15px;
+    font-size: 17px;
     transition: background 0.3s, color 0.3s;
 }
 .nav-list ul li a:hover{
