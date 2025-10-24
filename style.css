@@ -254,9 +254,8 @@ main > h2 {
 
 .viewmore-btns:hover{
     background-color: #2176bd;
-    text-decoration:underline;
+    text-decoration:none;
 }
-
 
 .contact {
     width: 90%;
