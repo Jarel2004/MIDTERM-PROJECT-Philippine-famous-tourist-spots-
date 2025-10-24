@@ -89,22 +89,42 @@ Each page highlights the **beauty, culture, and attractions** of specific locati
 | About Banaue | https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/bf/b4/3c/photo0jpg.jpg?w=1100&h=-1&s=1 |
 | About Banaue | https://www.agoda.com/city/banaue-ph.html?cid=1844104&ds=E01oRIuxDBRbHfhi |
 
-| Description            | Link                                                                                                                                                                                     |
-| ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Britannica Info        | [View](https://www.britannica.com/place/Mayon-Volcano)                                                                                                                                   |
-| Travel Guide           | [Guide to the Philippines](https://guidetothephilippines.ph/articles/ultimate-guides/mayon-volcano-guide-albay-bicol)                                                                    |
-| Ferry Ride             | [View](https://gttp.images.tshiftcdn.com/458730/x/0/cebu-to-or-from-masbate-ferry-ride-one-way-transasia.jpg?crop=1.91%3A1&width=1200&fit=crop)                                          |
-| Bus                    | [Instagram](https://www.instagram.com/p/DCekGjIToVf/?img_index=5)                                                                                                                        |
-| Sumlang Lake Tour      | [GetYourGuide](https://www.getyourguide.com/philippines-l169047/sumlang-lake-express-tour-with-cagsawa-ruins-by-zchedulista-t637613/?ranking_uuid=ce6a4cf2-7059-4993-8c4c-7d06ccf172dc)  |
-| Full Day Tour          | [GetYourGuide](https://www.getyourguide.com/legazpi-city-l130133/albay-bicol-full-day-tour-with-mayon-skyline-by-zchedulista-t614374/?ranking_uuid=ce6a4cf2-7059-4993-8c4c-7d06ccf172dc) |
-| Hotel Herencia 625     | [Tripadvisor](https://www.tripadvisor.com.ph/Hotel_Review-g5556259-d26366749-Reviews-Hotel_Herencia_625-Daraga_Bicol_Region_Luzon.html)                                                  |
-| Costa Palmera Resort   | [Tripadvisor](https://www.tripadvisor.com.ph/Hotel_Review-g3320429-d1806263-Reviews-Costa_Palmera_Resort-Calayucay_Santo_Domingo_Albay_Province_Bicol_Region_Luzon.html)                 |
-| Mayon Lodging House    | [Tripadvisor](https://www.tripadvisor.com.ph/Hotel_Review-g317122-d12492777-Reviews-Mayon_Lodging_House-Legazpi_Albay_Province_Bicol_Region_Luzon.html)                                  |
-| Emerald Boutique Hotel | [Tripadvisor](https://www.tripadvisor.com.ph/Hotel_Review-g317122-d10477508-Reviews-Emerald_Boutique_Hotel-Legazpi_Albay_Province_Bicol_Region_Luzon.html)                               |
-| Crispy Pili            | [View](https://www.wikihow.com/images/2/2b/Make-Crispy-Pili-Final-Version-2.jpg)                                                                                                         |
-| Kinalas                | [View](https://upload.wikimedia.org/wikipedia/commons/8/83/Kinalas.jpg)                                                                                                                  |
-| Sili Ice Cream         | [View](https://albay.gov.ph/wp-content/uploads/2020/02/sili-ice.png)                                                                                                                     |
-| Bicol Express          | [View](https://albay.gov.ph/wp-content/uploads/2020/02/bicol-express-1024x538.png)                                                                                                       |
+
+## 🌋 MAYON
+| Description | Image Link |
+|--------------|-------------|
+| Source | https://www.britannica.com/place/Mayon-Volcano |
+| Guide | https://guidetothephilippines.ph/articles/ultimate-guides/mayon-volcano-guide-albay-bicol |
+| Image Source | https://www.getyourguide.com/mayon-volcano-l130138/ |
+| Bus | https://www.instagram.com/p/DCekGjIToVf/?img_index=5 |
+| Museo Orlina | https://travelsetu.com/guide/museo-orlina-tourism |
+| Hotel Herencia | https://www.tripadvisor.com.ph/Hotel_Review-g5556259-d26366749-Reviews-Hotel_Herencia_625-Daraga_Bicol_Region_Luzon.html |
+| Costa Palmera | https://www.tripadvisor.com.ph/Hotel_Review-g3320429-d1806263-Reviews-Costa_Palmera_Resort-Calayucay_Santo_Domingo_Albay_Province_Bicol_Region_Luzon.html#/media/1806263/?type=ALL_INCLUDING_RESTRICTED&albumtype=hsx%3A%3Aall_photos_album |
+| Mayon Lodging | https://www.tripadvisor.com.ph/Hotel_Review-g317122-d12492777-Reviews-Mayon_Lodging_House-Legazpi_Albay_Province_Bicol_Region_Luzon.html |
+| Emerald Boutique | https://www.tripadvisor.com.ph/Hotel_Review-g317122-d10477508-Reviews-Emerald_Boutique_Hotel-Legazpi_Albay_Province_Bicol_Region_Luzon.html |
+| Pili Dessert | https://www.wikihow.com/images/2/2b/Make-Crispy-Pili-Final-Version-2.jpg |
+| Kinalas | https://upload.wikimedia.org/wikipedia/commons/8/83/Kinalas.jpg |
+| Sili Ice Cream | https://albay.gov.ph/wp-content/uploads/2020/02/sili-ice.png |
+| Bicol Express | https://albay.gov.ph/wp-content/uploads/2020/02/bicol-express-1024x538.png |
+
+
+## 🪸 PUERTO PRINCESA
+| Description | Image Link |
+|--------------|-------------|
+| Source | https://www.britannica.com/place/Puerto-Princesa |
+| Guide | https://guidetothephilippines.ph/articles/ultimate-guides/puerto-princesa-underground-river-guide |
+| Image Source | https://www.getyourguide.com/puerto-princesa-l887/ |
+| Bus | https://www.instagram.com/p/CgFzLJtKx7B/?img_index=2 |
+| Tourism Guide | https://travelsetu.com/guide/puerto-princesa-tourism |
+| Hue Hotel | https://www.tripadvisor.com.ph/Hotel_Review-g294257-d2038771-Reviews-Hue_Hotels_and_Resorts_Puerto_Princesa-Puerto_Princesa_Palawan_Island_Palawan_Province_Mimaropa.html |
+| Astor Hotel | https://www.tripadvisor.com.ph/Hotel_Review-g294257-d583286-Reviews-Astor_Hotel_Palawan-Puerto_Princesa_Palawan_Island_Palawan_Province_Mimaropa.html |
+| Prima Residences | https://www.tripadvisor.com.ph/Hotel_Review-g294257-d15525742-Reviews-Prima_Residences-Puerto_Princesa_Palawan_Island_Palawan_Province_Mimaropa.html |
+| Underground River | https://www.wikihow.com/images/2/2a/Puerto-Princesa-Underground-River.jpg |
+| National Park | https://upload.wikimedia.org/wikipedia/commons/f/f2/Puerto_Princesa_Subterranean_River_National_Park.jpg |
+| Baywalk | https://upload.wikimedia.org/wikipedia/commons/b/b5/Puerto_Princesa_Baywalk.jpg |
+| River View | https://palawan.gov.ph/wp-content/uploads/2020/03/Underground-River.jpg |
+| City Bay | https://palawan.gov.ph/wp-content/uploads/2020/03/Puerto-Princesa-City-Bay.jpg |
+
 
 
 ## 🏞️ RUDGIE MOLLEJON - BATANES
