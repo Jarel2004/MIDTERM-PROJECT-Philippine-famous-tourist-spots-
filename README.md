@@ -96,7 +96,7 @@ Sources from:
 - [Guide to the Philippines – Tagaytay](https://guidetothephilippines.ph/articles/ultimate-guides/tagaytay-travel-guide)  
 - [TravelTripsters – La Union](https://www.traveltripsters.com/2020/01/grapes-launion.html)
 
-*(Full image list available in documentation folder)*
+
 
 ---
 
