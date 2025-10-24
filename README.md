@@ -79,15 +79,19 @@ Each page highlights the **beauty, culture, and attractions** of specific locati
 | Tricycle | https://media.istockphoto.com/id/1287066732/photo/tricycle-is-a-popular-transport-in-philippines.jpg?s=612x612&w=0&k=20&c=XIyCLqh5gpWSyDmtxyRau58hlWlXnnCaR9OLuvrjWgA= |
 
 ---
-## 🌆 BANAUE
-| Description | Link |
-|--------------|------|
-| All about Banaue| https://guidetothephilippines.ph/articles/ultimate-guides/manila-travel-guide](https://guidetothephilippines.ph/articles/ultimate-guides/banaue-travel-guide |
-| Bus | https://content.pamasahe.com/wp-content/uploads/2025/09/ohayami-bus-min-1024x528.jpg |
+## 🌾 BANAUE
+| Description | Image Link |
+|--------------|-------------|
 | Travel Guide | https://guidetothephilippines.ph/articles/ultimate-guides/banaue-travel-guide |
-| Sanafe | https://www.tripadvisor.com.ph/Hotel_Review-g294249-d1373155-Reviews-Sanafe_Lodge-Banaue_Ifugao_Province_Cordillera_Region_Luzon.html |
-| About Banaue | https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/bf/b4/3c/photo0jpg.jpg?w=1100&h=-1&s=1 |
-| About Banaue | https://www.agoda.com/city/banaue-ph.html?cid=1844104&ds=E01oRIuxDBRbHfhi |
+| Bus Transport | https://content.pamasahe.com/wp-content/uploads/2025/09/ohayami-bus-min-1024x528.jpg |
+| Rice Terraces View | https://i.pinimg.com/1200x/2f/18/2e/2f182ec2c80d27198d8615c8d21d6a7c.jpg |
+| Bookaway Bus | https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi39Zzu0qxkuTmuydLajPFLZ-9rp3YagAheb2VYnuhojPa5glan5ValDHjJyh5oGtDOLvV-Eg1nfaJ51HJwHqvc6-XsNbinFG4dNrCUVgEgOLYeLZJHqz4c5ngMIX2uob8re64B-_ADmqYs/s1600/POST_Bookaway+-+Banaue.jpg |
+| DOT Cordillera Feature | https://www.facebook.com/DOTCordillera/photos/%F0%9D%97%95%F0%9D%97%B2%F0%9D%98%80%F0%9D%98%81-%F0%9D%97%96%F0%9D%97%BC%F0%9D%97%BF%F0%9D%97%B1%F0%9D%97%B6%F0%9D%97%B9%F0%9D%97%B9%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%AE-%F0%9D%97%A7%F0%9D%97%BC%F0%9D%98%82%F0%9D%97%BF%F0%9D%97%B6%F0%9D%98%80%F0%9D%97%BA-%F0%9D%97%A9%F0%9D%97%B6%F0%9D%97%B9%F0%9D%97%B9%F0%9D%97%AE%F0%9D%97%B4%F0%9D%97%B2-%F0%9D%97%99%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%AE%F0%9D%97%B9%F0%9D%97%B6%F0%9D%98%80%F0%9D%98%81%F0%9D%97%95%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B1-%F0%9D%97%A5%F0%9D%97%B6%F0%9D%97%B0%F0%9D%97%B2-%F0%9D%97%A7%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%BF%F0%9D%97%AE%F0%9D%97%B0%F0%9D%97%B2%F0%9D%98%80-%F0%9D%97%A7%F0%9D%97%BC%F0%9D%98%82%F0%9D%97%BF%F0%9D%97%B6%F0%9D%98%80%F0%9D%97%BA-%F0%9D%97%A9%F0%9D%97%B6%F0%9D%97%B9%F0%9D%97%B9%F0%9D%97%AE%F0%9D%97%B4%F0%9D%97%B2-%F0%9D%97%95%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%AE/341056628273648/?_rdr |
+| Banaue Travel Info | https://guidetothephilippines.ph/articles/ultimate-guides/banaue-travel-guide |
+| Sanafe Lodge | https://www.tripadvisor.com.ph/Hotel_Review-g294249-d1373155-Reviews-Sanafe_Lodge-Banaue_Ifugao_Province_Cordillera_Region_Luzon.html |
+| Sanafe Lodge Photo | https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/bf/b4/3c/photo0jpg.jpg?w=1100&h=-1&s=1 |
+| Agoda Hotel Options | https://www.agoda.com/city/banaue-ph.html?cid=1844104&ds=E01oRIuxDBRbHfhi |
+
 
 
 ## 🌋 MAYON
