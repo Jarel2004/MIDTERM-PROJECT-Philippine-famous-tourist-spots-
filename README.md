@@ -300,8 +300,6 @@ Each page highlights the **beauty, culture, and attractions** of specific locati
 | Hotel 4 | https://gttp.images.tshiftcdn.com/293545/x/0/10-best-hotels-in-vigan-ilocos-sur-unesco-world-heritage-city-8.jpg?auto=compress%2Cformat&ch=Width%2CDPR&dpr=1&ixlib=php-3.3.0&w=883 |
 
 ---
-==========================================
-Benz P. Romano
 
 ## 🌊 ROMANO - CORON
 | Description | Image Link |
