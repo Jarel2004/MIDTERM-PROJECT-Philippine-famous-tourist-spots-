@@ -213,6 +213,91 @@ Each page highlights the **beauty, culture, and attractions** of specific locati
 | Tagaytay Country Hotel | https://www.booking.com/hotel/ph/tagaytay-country.en-gb.html |
 
 ---
+
+## 🌴 VILLASURDA - SIARGAO
+| Description | Image Link |
+|--------------|-------------|
+| main pic | https://www.vacationhive.com/images/hives/8/8-siargao-island-banner-2022.jpg |
+| habal | https://wherewouldyougo.com/wp-content/uploads/2015/12/Habal-Habal-Unique-Transport.jpg |
+| tricycle | https://i.pinimg.com/originals/75/74/d2/7574d2f6a394981c1b381c3b60ed2aed.jpg |
+| kinilaw | https://1.bp.blogspot.com/-hpxDe783pxQ/XlvU80ukUEI/AAAAAAAAUOg/JGNN0w83tIA9MibpD8CWADc_wTX9bBPxACLcBGAsYHQ/s1600/Kinilaw.jpg |
+| pan de surf | https://farm5.staticflickr.com/4580/37634259385_fd140b7ce4.jpg |
+| adobo | https://1.bp.blogspot.com/-AI-AjbFXNkc/XqRRIsb9ypI/AAAAAAAAUsk/rHDwv9si3tIQPJcDmxmL7VY4kq-HxuTewCLcBGAsYHQ/s1600/chicken%2Badobo%2Bgata.jpg |
+| seafood | https://dytravel.com.au/wp-content/uploads/2020/11/Siragao-Seafood-1-1024x683.jpg |
+| surfing | https://mindanews.com/wp-content/uploads/2014/06/12cloud9_3web.jpg |
+| island hopping | https://global-uploads.webflow.com/576fd5a8f192527e50a4b95c/5e4a811eae7502ebb9f1caeb_siargao%20island%20hopping.jpg |
+| sugba lagoon | https://1.bp.blogspot.com/-mbHi5gM5Wi8/W1LcEFrnpAI/AAAAAAAABRs/z_5bxtDKL0M5HcNrjG8nzgUYjDVKmuqPwCLcBGAs/s1600/Sugba%2BLagoon.jpg |
+| pools | https://i.pinimg.com/originals/f6/46/0f/f6460fb30b10e06d1a917af08244f4e5.jpg |
+| h1 | https://www.booking.com/hotel/ph/isla-cabana-resort.html |
+| h2 | https://www.booking.com/hotel/ph/villa-cali-siargao.html?utm_source=chatgpt.com |
+| h3 | https://www.booking.com/hotel/ph/bulan-villas-siargao.html?utm_source=chatgpt.com |
+| h4 | https://www.booking.com/hotel/ph/siargao-island-villas.html |
+
+---
+
+## 🌴 CAMIGUIN ISLAND
+| Description | Image Link |
+|--------------|-------------|
+| Island Pic | https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Timpoong_and_Hibok-Hibok_Natural_Monument_in_Camiguin_-_Allan_Jay_Quesada.jpg/1920px-Timpoong_and_Hibok-Hibok_Natural_Monument_in_Camiguin_-_Allan_Jay_Quesada.jpg |
+| HabalHabal | https://c2.staticflickr.com/4/3681/9464885129_e80b7c442f_b.jpg |
+| Multicab | https://2.bp.blogspot.com/-BFKPOaHVmv0/Tbe75pS2d-I/AAAAAAAAABA/WTJROfde754/s1600/multicab.jpg |
+| Lanzones | https://hicaps.com.ph/wp-content/uploads/2022/10/lanzones-festival-philippines.jpg |
+| Kiping | https://philippinetravels.ph/wp-content/uploads/2022/08/15-Camiguin-Tourist-Spots-Kiping-1024x768.jpg |
+| Pastel | https://i.pinimg.com/originals/19/28/8d/19288ddf04a085bffe95db4712193e02.jpg |
+| Surol | https://ik.imagekit.io/avdg/newsroom/wp-content/uploads/2022/01/Camiguin-Cuisine-Blog-photos-04-768x543.jpg |
+| whiteisland | https://deih43ym53wif.cloudfront.net/white-siland-Camiguin-Philippines-shutterstock_1439447942.jpg_2f20ecb1f5.jpg |
+| sunken cemetary | https://pinaywise.com/wp-content/uploads/2024/03/Sunken-Cemetery-Camiguin-Mindanao.jpg |
+| mt. hibok | https://i.redd.it/the-mt-hibok-hibok-of-camiguin-island-philippines-v0-om4o7dlv64y91.jpg?s=bad4cd557b7e69ce704785070549e0acf4655a25 |
+| katibawasan | https://www.jonnymelon.com/wp-content/uploads/2019/09/katibawasan-falls-8-510x382.jpg |
+| hotel 1 | https://agohoresort.com/wp-content/uploads/2022/04/IMG_9218-modif-1500-800x800.jpg |
+| hotel 2 | https://cf.bstatic.com/xdata/images/hotel/max1024x768/721227983.jpg?k=0f706ca14c8f8ec0be8677033cf68fbfc130a746b7bf0d455763de2815be1446&o= |
+| hotel 3 | https://cf.bstatic.com/xdata/images/hotel/square600/620045044.webp?k=da084e9c1b3fa3e1e5ac96ae96a2151d8837f4faaa6ea57f6ebd12a294882bda&o= |
+| hotel 4 | https://cf.bstatic.com/xdata/images/hotel/max1024x768/358612351.jpg?k=afe79c64aa37f1216317399105da3d4e0eff7c415aee7b78b928d3837d5cf38a&o= |
+
+---
+
+## 🌴 DONSOL
+| Description | Image Link |
+|--------------|-------------|
+| whale shark |  |
+| boat | https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/8a/d9/87/sea-turtle-lagoon-resort.jpg?w=1200&h=1200&s=1 |
+| tricycle | https://media.istockphoto.com/photos/tricycle-on-the-street-boracay-philippines-picture-id486079296?k=20&m=486079296&s=612x612&w=0&h=A1EfhbGvbdISjre-UK1sOxms2AUtmV90DTXjCcN3Uwo= |
+| bicol | https://homefoodie.com.ph/uploads/2016/11/Bicol-Express_017.jpg |
+| laing | https://1.bp.blogspot.com/-rj5O8F3OeiQ/WLtiKI6QaZI/AAAAAAAAAb8/09hUX_olMNsFHwxi-YLjTL0I85wJnlNnACLcB/s1600/laing.jpg |
+| kinunot na pagi | https://wfgp.s3.amazonaws.com/media/dishes/kinunot_na_pagi_1869-reg.jpg |
+| swim whale | https://i.pinimg.com/originals/62/41/28/6241286290321c494f25188a26c1ffea.jpg |
+| firefly | https://cdn-imgix.headout.com/tour/34042/TOUR-IMAGE/eb5fbfcb-039b-4dac-89be-5ef5cd05cf1d-17849-selangor-fireflies-watching-tour-in-kuala-selangor-01.jpg?auto=compress&w=768&h=480&fit=min |
+| island hop | https://cdn.kimkim.com/files/a/images/593c92f2cd881413574718edbbd278e6dfd81b70/big-3b1e167c939efe1d7445cac0afb99e44.jpg |
+| scuba | https://media.trytn.site/careydivecenter/2018/05/Scuba-Diving-Isla-Mujeres-Carey-Dive-Center-2-3.jpg |
+| hotel 1 | https://cf.bstatic.com/xdata/images/hotel/max1024x768/572039111.jpg?k=f9124a3ef5b10e13a10df196a097dc0a11a43f59e31ccb5c67360d79d4bf0d0d&o= |
+| h 2 | https://cf.bstatic.com/xdata/images/hotel/max1024x768/14781456.jpg?k=fb1a25867c793913d1f8dc45d3260e376bd9f5ea09e679cccddc6308230f359e&o= |
+| h 3 | https://www.agoda.com/agm-beachfront-resort/hotel/donsol-ph.html |
+| h 4 | https://www.booking.com/hotel/ph/dancalan-beach-resort.html |
+
+---
+
+## 🌴 VIGAN CITY
+| Description | Image Link |
+|--------------|-------------|
+| Vigan Cathedral | https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Allan_Jay_Quesada_-_Vigan_Cathedral_001.jpg/1920px-Allan_Jay_Quesada_-_Vigan_Cathedral_001.jpg |
+| Calesa | https://en.wikipedia.org/wiki/File:Horse_carriages_in_Vigan_City.JPG |
+| Tricycle | https://3.bp.blogspot.com/-Mz4Yp7tXCK4/UxQuoTAlx_I/AAAAAAAAEYY/NxVudWrTZZM/s1600/tricycles.JPG |
+| Vigan Longanisa | https://i.ytimg.com/vi/BcXgfvtI8N4/maxresdefault.jpg |
+| Vigan Empanada | https://bing.com/th?id=OSK.4178eb93853c8faa64ff65a69e438345 |
+| Bagnet | https://th.bing.com/th/id/R.d62ac8781817d347d2438f6ec89534b9?rik=J1HX5IliEUtmDA&riu=http%3a%2f%2fcdn.shopify.com%2fs%2ffiles%2f1%2f0463%2f2041%2f8983%2fproducts%2fViganBagnet_1200x1200.jpg%3fv%3d1632453247&ehk=P3njbL7wqQUNy2eig2CjFqEiQA18h%2bZxz24ntsQ53TE%3d&risl=&pid=ImgRaw&r=0 |
+| Sinanglao | https://i.ytimg.com/vi/19O2xSM4Kcs/maxresdefault.jpg |
+| Calesa Travelling | https://1.bp.blogspot.com/-eyN0Vo1Yrzs/XQOAKTEiWwI/AAAAAAAAFkM/mb1NZDr66SEbs4x9xYHJX1EN02REh9kwgCLcBGAs/s640/Calle%2BCrisologo%2BCalesa%2BRide%2BVigan%2BIlocos%2BSur.jpg |
+| Pottery | https://th.bing.com/th/id/R.6d516153aa41bf0a6ccbfb48b96eed29?rik=fdcmcYVRa2FdeQ&riu=http%3a%2f%2f3.bp.blogspot.com%2f-V3580a2solE%2fV5wc1uem8dI%2fAAAAAAAAEug%2fNxlv2-ZjJDAuG4nalJvCdNyZFP4xMNbHACK4B%2fs1600%2fPagburnayan%252BPottery%252B%2525286%252529.JPG&ehk=zPH6ESHOKux%2fdSsYswJIf%2bqvP4NWgn5xM1wPhN6zG%2fY%3d&risl=&pid=ImgRaw&r=0 |
+| St. Paul Cathedral | https://live.staticflickr.com/797/41036786501_2b7547d932_b.jpg |
+| Delicacy | https://chibogtayoph.com/wp-content/uploads/2022/05/Ikan-Dampa-Vigan-1536x1152.jpg |
+| Hotel 1 | https://gttp.images.tshiftcdn.com/293549/x/0/10-best-hotels-in-vigan-ilocos-sur-unesco-world-heritage-city-11.jpg?auto=compress%2Cformat&ch=Width%2CDPR&dpr=1&ixlib=php-3.3.0&w=883 |
+| Hotel 2 | https://gttp.images.tshiftcdn.com/293547/x/0/10-best-hotels-in-vigan-ilocos-sur-unesco-world-heritage-city-10.jpg?auto=compress%2Cformat&ch=Width%2CDPR&dpr=1&ixlib=php-3.3.0&w=883 |
+| Hotel 3 | https://gttp.images.tshiftcdn.com/293546/x/0/10-best-hotels-in-vigan-ilocos-sur-unesco-world-heritage-city-9.jpg?auto=compress%2Cformat&ch=Width%2CDPR&dpr=1&ixlib=php-3.3.0&w=883 |
+| Hotel 4 | https://gttp.images.tshiftcdn.com/293545/x/0/10-best-hotels-in-vigan-ilocos-sur-unesco-world-heritage-city-8.jpg?auto=compress%2Cformat&ch=Width%2CDPR&dpr=1&ixlib=php-3.3.0&w=883 |
+
+---
+
+
 *
 
 
