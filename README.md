@@ -48,10 +48,6 @@ Each page highlights the **beauty, culture, and attractions** of specific locati
 - **HTML**
 - **CSS**
 
-### ✨ Enhancements
-- **Dark Mode**
-- **Ratings Feature**
-
 ---
 
 # 🖼️ IMAGE SOURCES
