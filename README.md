@@ -135,7 +135,7 @@ Each page highlights the **beauty, culture, and attractions** of specific locati
 
 **Source:** [Guide to the Philippines - Batanes Travel Guide](https://guidetothephilippines.ph/articles/ultimate-guides/batanes-travel-guide)
 
-| Description | Link |
+| Description | Image Link |
 |--------------|------|
 | Tricycle | https://alexeiontheroad.com/2024/04/30/the-beautiful-dead-end-of-the-philippines-the-batanes-islands/ |
 | Faluwa | https://alexeiontheroad.com/2024/04/30/the-beautiful-dead-end-of-the-philippines-the-batanes-islands/ |
@@ -156,7 +156,7 @@ Each page highlights the **beauty, culture, and attractions** of specific locati
 
 ## 🌆 MANILA
 
-| Description | Link |
+| Description | Image Link |
 |--------------|------|
 | Manila Main | https://guidetothephilippines.ph/articles/ultimate-guides/manila-travel-guide |
 | Jeepney | https://www.viator.com/tours/Manila/Private-Half-Day-Shore-Manila-City-Tour-by-Jeepney/d4674-24232P54 |
@@ -178,7 +178,7 @@ Each page highlights the **beauty, culture, and attractions** of specific locati
 
 ## 🌊 LA UNION
 
-| Description | Link |
+| Description | Image Link |
 |--------------|------|
 | Bus | https://12go.asia/en/operator/la-union |
 | Tricycle | https://www.thepoortraveler.net/tangadan-falls-la-union/ |
@@ -199,7 +199,7 @@ Each page highlights the **beauty, culture, and attractions** of specific locati
 
 ## 🌋 TAGAYTAY
 
-| Description | Link |
+| Description | Image Link |
 |--------------|------|
 | Source | https://guidetothephilippines.ph/articles/ultimate-guides/tagaytay-travel-guide |
 | Taal View | https://edition.cnn.com/travel/article/tagaytay-taal-volcano-philippines |
